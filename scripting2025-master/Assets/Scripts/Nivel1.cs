@@ -15,7 +15,6 @@ public class Volver : MonoBehaviour
 
     public void CerrarNivel(){
         Application.Quit();
-        Debug.Log("Juego cerrardo");
         UnityEditor.EditorApplication.isPlaying = false;
     }
 
