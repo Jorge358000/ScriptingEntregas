@@ -6,7 +6,7 @@ public class GameOverManager : MonoBehaviour
 {
     public GameObject gameOverScreen; // Fondo de Game Over
     private Health playerHealth;
-    private bool isGameOver = false; // Para controlar si el jugador ha muerto
+    private bool isGameOver; // Para controlar si el jugador ha muerto
 
     private void Start()
     {
