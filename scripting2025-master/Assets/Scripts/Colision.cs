@@ -6,11 +6,8 @@ using MoreMountains.CorgiEngine;
 
 public class Colision : MonoBehaviour
 {
-    public void OnTriggerEnter2D(Collider2D other){
-        Creditos();
-    }
-
+    
     public void Creditos(){
-        MMSceneLoadingManager.LoadScene("Creditos");
+        MMSceneLoadingManager.LoadScene("Nivel2");
     }
 }

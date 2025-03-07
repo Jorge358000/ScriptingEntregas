@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 using MoreMountains.Tools;
 
@@ -33,7 +33,7 @@ namespace MoreMountains.CorgiEngine
 		public bool JetpackUnlimited = false;
 		/// the maximum duration (in seconds) of the jetpack
 		[Tooltip("the maximum duration (in seconds) of the jetpack")]
-		public float JetpackFuelDuration = 500f;
+		public float JetpackFuelDuration = 5f;
 		/// the jetpack refuel cooldown, in seconds
 		[Tooltip("the jetpack refuel cooldown, in seconds")]
 		public float JetpackRefuelCooldown=1f;
