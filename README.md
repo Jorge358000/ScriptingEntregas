@@ -41,7 +41,8 @@
 
 **Sprite sheet y animación de la llave:**
 
-![Prop llave](https://github.com/user-attachments/assets/f09223ae-f461-45f3-b1a5-be1b90d8d978)
+![Sprite sheet llave](https://github.com/user-attachments/assets/9ac3f863-6c1a-4ed3-b05d-28f05992f225)
+
 
 
 
