@@ -36,6 +36,8 @@
 
 ![Sprite sheet moneda](https://github.com/user-attachments/assets/75ee6751-d396-46c0-b5ae-50439ffbd6e1)
 
+![Prop moneda](https://github.com/user-attachments/assets/c9a74af3-80e9-47b2-ba65-b316c29ecd4d)
+
 
 
 
