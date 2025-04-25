@@ -99,8 +99,10 @@
   ![pixil-frame-0](https://github.com/user-attachments/assets/8dac0c31-744d-45f6-bb80-e472be474891)
 
 **2. Plataforma movil:**
-![pixil-frame-0 (1)](https://github.com/user-attachments/assets/09cb3b34-0c2f-4728-a06e-48022f228683)
+  ![pixil-frame-0 (1)](https://github.com/user-attachments/assets/09cb3b34-0c2f-4728-a06e-48022f228683)
 
+**3. Plataforma de base:**
+  ![pixil-frame-0 (2)](https://github.com/user-attachments/assets/6efc0ba4-ac6f-419e-af55-015fc7688a48)
 
 
 ### **ENEMIGOS:**
