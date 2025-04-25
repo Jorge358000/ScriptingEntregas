@@ -50,7 +50,7 @@
 
 ![Sprite sheet llave](https://github.com/user-attachments/assets/9ac3f863-6c1a-4ed3-b05d-28f05992f225)
 
-![Uploading Idol.gif…]()
+![Idol](https://github.com/user-attachments/assets/aab13b3d-0b39-412e-b6bc-5def91e5807d)
 
 
 
