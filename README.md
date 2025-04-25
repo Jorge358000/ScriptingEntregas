@@ -1,1 +1,7 @@
 # ScriptingEntregas
+## ARTE NIVEL #1:
+### PERSONAJE PRINCIPAL:
+### PROPS:
+### FONDOS: 
+### BARRAS INDICADORAS: 
+
