@@ -10,6 +10,7 @@
 
 
 **2. Sprite sheet y animación del personaje saltando:**
+
 ![Sprite sheet personaje saltando](https://github.com/user-attachments/assets/caeafdd4-1b3e-444b-8bea-cf42d739fb13)
 
 ![Personaje saltando](https://github.com/user-attachments/assets/d727fbe5-2b4b-4513-a4ea-1d7045dde3ce)
@@ -17,7 +18,8 @@
 
 **3. Sprite sheet y animación del personaje atacando:**
 
-![Sprite sheet personaje atacando](https://github.com/user-attachments/assets/6b39433e-6023-4d0e-8537-1e70920dca74)
+![Personaje atacando](https://github.com/user-attachments/assets/39523475-3ad9-4578-9af3-7254a6bfa742)
+
 
 ![personaje atacando](https://github.com/user-attachments/assets/adea30c7-b55e-4172-a218-f546468db369)
 
