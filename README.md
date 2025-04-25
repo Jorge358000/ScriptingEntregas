@@ -98,6 +98,8 @@
 
 ![Barra de vida](https://github.com/user-attachments/assets/21af0d5b-ee8a-4c8a-b549-5210a48afa64)
 
+![pixil-frame-0 (14)](https://github.com/user-attachments/assets/18415a81-75f5-4366-b9d9-d8406f70498a)
+
 
 **2. Barra que indica cuantas municiones tiene el personaje:**
 
