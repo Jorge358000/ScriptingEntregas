@@ -1,5 +1,21 @@
 # **NIVEL #1:**
+
 ## **ARTE NIVEL #1:**
+
+### **DISEÑO DE NIVEL:**
+**Base de nivel:**
+  ![Nivel 1](https://github.com/user-attachments/assets/ea4559ae-938f-4346-9dc4-25aee2842048)
+
+**Nivel 1: Easy:**
+  ![Nivel 1- easy](https://github.com/user-attachments/assets/8e784d74-b824-4ebb-a2c3-0fe935721aef)
+
+**Nivel 1: Medium:**
+  ![Nivel 1- medium](https://github.com/user-attachments/assets/f5bede29-59d0-4088-b3b5-82f5b9d29273)
+
+**Nivel 1: Hard:**
+  ![Nivel 1-hard](https://github.com/user-attachments/assets/db685864-8644-4e5d-9139-01343aabec3f)
+
+
 ### **PERSONAJE PRINCIPAL:**
 
 **1. Sprite sheet y animación del personaje caminando:**
