@@ -4,7 +4,7 @@
 
 ### **DISEÑO DE NIVEL:**
 **Base de nivel:**
-  ![Nivel 1](https://github.com/user-attachments/assets/ea4559ae-938f-4346-9dc4-25aee2842048)
+  ![Nivel 1](https://github.com/user-attachments/assets/179b682b-aea3-4e6c-8535-0492da4f4244)
 
 **Nivel 1: Easy:**
   ![Nivel 1- easy](https://github.com/user-attachments/assets/8e784d74-b824-4ebb-a2c3-0fe935721aef)
