@@ -82,5 +82,8 @@
 ![Barra de vida](https://github.com/user-attachments/assets/21af0d5b-ee8a-4c8a-b549-5210a48afa64)
 
 
+**Barra que indica cuantas municiones tiene el personaje:**
+
+![Barra de munición](https://github.com/user-attachments/assets/9a732e2e-b3f4-4a59-a56d-7308f20e679f)
 
 
