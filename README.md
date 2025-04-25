@@ -20,6 +20,8 @@
 
 ![Sprite sheet personaje atacando](https://github.com/user-attachments/assets/6b39433e-6023-4d0e-8537-1e70920dca74)
 
+![personaje atacando](https://github.com/user-attachments/assets/adea30c7-b55e-4172-a218-f546468db369)
+
 
 
 
