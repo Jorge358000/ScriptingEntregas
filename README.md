@@ -23,6 +23,15 @@
 ![personaje atacando](https://github.com/user-attachments/assets/adea30c7-b55e-4172-a218-f546468db369)
 
 
+**Sprite sheet y animación del personaje cuando es herido:**
+
+![Sprite sheet personaje herido](https://github.com/user-attachments/assets/94e01b9b-73c2-457f-84a5-3e7c9291752c)
+
+
+
+
+
+
 
 
 
