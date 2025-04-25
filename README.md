@@ -9,6 +9,12 @@
 ![Personaje caminando](https://github.com/user-attachments/assets/d93c9639-ecc2-4dab-a1a2-28703064ec9d)
 
 
+**Sprite sheet y animación del personaje saltando:**
+
+![Sprite sheet personaje saltando](https://github.com/user-attachments/assets/caeafdd4-1b3e-444b-8bea-cf42d739fb13)
+
+
+
 
 
 
