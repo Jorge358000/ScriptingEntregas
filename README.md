@@ -13,6 +13,7 @@
 
 ![Sprite sheet personaje saltando](https://github.com/user-attachments/assets/caeafdd4-1b3e-444b-8bea-cf42d739fb13)
 
+![Personaje saltando](https://github.com/user-attachments/assets/d727fbe5-2b4b-4513-a4ea-1d7045dde3ce)
 
 
 
