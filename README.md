@@ -26,7 +26,7 @@
 
 **4. Sprite sheet y animación del personaje cuando es herido:**
 
-![Sprite sheet personaje herido](https://github.com/user-attachments/assets/94e01b9b-73c2-457f-84a5-3e7c9291752c)
+![pixilart-sprite (7)](https://github.com/user-attachments/assets/ec9b6dd1-c632-4c99-b563-772bdb5117ff)
 
 ![Persinaje cuando es herido](https://github.com/user-attachments/assets/0cd12075-b235-41e2-bfda-52c73fe5206e)
 
