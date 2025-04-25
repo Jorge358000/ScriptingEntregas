@@ -76,3 +76,11 @@
 
 ### BARRAS INDICADORAS: 
 
+
+**Barra de vida:**
+
+![Barra de vida](https://github.com/user-attachments/assets/21af0d5b-ee8a-4c8a-b549-5210a48afa64)
+
+
+
+
