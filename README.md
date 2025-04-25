@@ -4,8 +4,7 @@
 
 **1. Sprite sheet y animación del personaje caminando:**
 
-![pixilart-sprite (1)](https://github.com/user-attachments/assets/fc301834-ccb6-4568-a9f2-41fd3576b34d)
-
+![Sprite Sheet personaje caminando 2](https://github.com/user-attachments/assets/24fac099-5a62-4458-9ba5-1240a27d001c)
 
 ![Personaje caminando](https://github.com/user-attachments/assets/d93c9639-ecc2-4dab-a1a2-28703064ec9d)
 
