@@ -98,6 +98,10 @@
 **1. Plataforma estatica:**
   ![pixil-frame-0](https://github.com/user-attachments/assets/8dac0c31-744d-45f6-bb80-e472be474891)
 
+**2. Plataforma movil:**
+![pixil-frame-0 (1)](https://github.com/user-attachments/assets/09cb3b34-0c2f-4728-a06e-48022f228683)
+
+
 
 ### **ENEMIGOS:**
 
