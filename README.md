@@ -9,28 +9,27 @@
 ![Personaje caminando](https://github.com/user-attachments/assets/d93c9639-ecc2-4dab-a1a2-28703064ec9d)
 
 
-*Sprite sheet y animación del personaje saltando:*
-
+**2. Sprite sheet y animación del personaje saltando:**
 ![Sprite sheet personaje saltando](https://github.com/user-attachments/assets/caeafdd4-1b3e-444b-8bea-cf42d739fb13)
 
 ![Personaje saltando](https://github.com/user-attachments/assets/d727fbe5-2b4b-4513-a4ea-1d7045dde3ce)
 
 
-**2. Sprite sheet y animación del personaje atacando:**
+**3. Sprite sheet y animación del personaje atacando:**
 
 ![Sprite sheet personaje atacando](https://github.com/user-attachments/assets/6b39433e-6023-4d0e-8537-1e70920dca74)
 
 ![personaje atacando](https://github.com/user-attachments/assets/adea30c7-b55e-4172-a218-f546468db369)
 
 
-**3. Sprite sheet y animación del personaje cuando es herido:**
+**4. Sprite sheet y animación del personaje cuando es herido:**
 
 ![Sprite sheet personaje herido](https://github.com/user-attachments/assets/94e01b9b-73c2-457f-84a5-3e7c9291752c)
 
 ![Persinaje cuando es herido](https://github.com/user-attachments/assets/0cd12075-b235-41e2-bfda-52c73fe5206e)
 
 
-### PROPS:
+### **PROPS:**
 
 **1. Sprite sheet y animación de la moneda:**
 
@@ -47,11 +46,13 @@
 
 
 
-### FONDOS: 
+### **FONDOS:**
 
 **1. Pantalla de inicio:**
 
 ![Pantalla de inicio](https://github.com/user-attachments/assets/d846a5b4-c2d3-4c6d-bb6e-6858530596c5)
+
+
 
 
 **2. Fondo de los creditos:**
@@ -59,9 +60,13 @@
 ![Pantalla de los creditos](https://github.com/user-attachments/assets/03f17d40-d94b-464e-997c-9a0ef2dd363b)
 
 
+
+
 **3. Pantalla Victoria:**
 
 ![Pantalla de victoria](https://github.com/user-attachments/assets/aa97b431-176a-4be6-81ae-0b79639c4bb1)
+
+
 
 
 **4. Pantalla de derrota:**
@@ -69,7 +74,7 @@
 ![Pantalla de derrota](https://github.com/user-attachments/assets/fcad9676-3b57-435f-b7af-04f39926413f)
 
 
-### BARRAS INDICADORAS: 
+### **BARRAS INDICADORAS:**
 
 
 **1. Barra de vida:**
@@ -82,9 +87,11 @@
 ![Barra de munición](https://github.com/user-attachments/assets/9a732e2e-b3f4-4a59-a56d-7308f20e679f)
 
 
+### **PLATAFORMAS:**
 
+### **ENEMIGOS:**
 
-
+### **ARCHIVOS:**
 
 
 
