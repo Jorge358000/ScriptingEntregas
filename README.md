@@ -1,6 +1,6 @@
 # *ScriptingEntregas*
-## ARTE NIVEL #1:
-### PERSONAJE PRINCIPAL:
+## *ARTE NIVEL #1:*
+### *PERSONAJE PRINCIPAL:*
 
 **Sprite sheet y animación del personaje caminando:**
 
