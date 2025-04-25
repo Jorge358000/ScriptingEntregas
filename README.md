@@ -29,6 +29,14 @@
 ![Persinaje cuando es herido](https://github.com/user-attachments/assets/0cd12075-b235-41e2-bfda-52c73fe5206e)
 
 
+**4. Sprite sheet y animación del personaje idol:**
+
+![Idol personaje](https://github.com/user-attachments/assets/b5bfe3f7-ab5d-40c0-8e1b-f6badf5ccc86)
+
+![Idol personaje](https://github.com/user-attachments/assets/a25f25e4-bc2b-4d4a-b6c3-a67ca979601f)
+
+
+
 ### **PROPS:**
 
 **1. Sprite sheet y animación de la moneda:**
