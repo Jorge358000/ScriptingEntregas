@@ -49,6 +49,12 @@
 
 ### FONDOS: 
 
+**Pantalla de inicio:**
+
+![Pantalla de inicio](https://github.com/user-attachments/assets/d846a5b4-c2d3-4c6d-bb6e-6858530596c5)
+
+
+
 **Fondo nivel 2 (Cueva):**
 
 ![Fondo nivel 2](https://github.com/user-attachments/assets/be3cffce-a226-4d54-ab62-977538ce89cb)
