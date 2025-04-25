@@ -54,10 +54,19 @@
 ![Pantalla de inicio](https://github.com/user-attachments/assets/d846a5b4-c2d3-4c6d-bb6e-6858530596c5)
 
 
+**Fondo de los creditos:**
+
+![Pantalla de los creditos](https://github.com/user-attachments/assets/03f17d40-d94b-464e-997c-9a0ef2dd363b)
+
 
 **Fondo nivel 2 (Cueva):**
 
 ![Fondo nivel 2](https://github.com/user-attachments/assets/be3cffce-a226-4d54-ab62-977538ce89cb)
+
+
+**Pantalla Victoria:**
+
+![Pantalla de victoria](https://github.com/user-attachments/assets/aa97b431-176a-4be6-81ae-0b79639c4bb1)
 
 
 ### BARRAS INDICADORAS: 
