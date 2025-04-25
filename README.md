@@ -48,5 +48,11 @@
 
 
 ### FONDOS: 
+
+**Fondo nivel 2 (Cueva):**
+
+![Fondo nivel 2](https://github.com/user-attachments/assets/be3cffce-a226-4d54-ab62-977538ce89cb)
+
+
 ### BARRAS INDICADORAS: 
 
