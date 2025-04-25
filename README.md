@@ -74,6 +74,13 @@
 ![Pantalla de derrota](https://github.com/user-attachments/assets/fcad9676-3b57-435f-b7af-04f39926413f)
 
 
+
+**5. Fondo nivel 1:**
+
+![pixil-frame-0 (13)](https://github.com/user-attachments/assets/7d93e503-d3cf-4b70-97eb-22e27fcee98b)
+
+
+
 ### **BARRAS INDICADORAS:**
 
 
