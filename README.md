@@ -16,6 +16,9 @@
 ![Personaje saltando](https://github.com/user-attachments/assets/d727fbe5-2b4b-4513-a4ea-1d7045dde3ce)
 
 
+**Sprite sheet y animación del personaje atacando:**
+
+![Sprite sheet personaje atacando](https://github.com/user-attachments/assets/6b39433e-6023-4d0e-8537-1e70920dca74)
 
 
 
