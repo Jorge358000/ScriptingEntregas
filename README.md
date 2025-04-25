@@ -27,6 +27,7 @@
 
 ![Sprite sheet personaje herido](https://github.com/user-attachments/assets/94e01b9b-73c2-457f-84a5-3e7c9291752c)
 
+![Persinaje cuando es herido](https://github.com/user-attachments/assets/0cd12075-b235-41e2-bfda-52c73fe5206e)
 
 
 
