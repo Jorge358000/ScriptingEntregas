@@ -30,14 +30,16 @@
 ![Persinaje cuando es herido](https://github.com/user-attachments/assets/0cd12075-b235-41e2-bfda-52c73fe5206e)
 
 
-
-
-
-
-
-
-
 ### PROPS:
+
+**Sprite sheet y animación de la moneda:**
+
+![Sprite sheet moneda](https://github.com/user-attachments/assets/75ee6751-d396-46c0-b5ae-50439ffbd6e1)
+
+
+
+
+
 ### FONDOS: 
 ### BARRAS INDICADORAS: 
 
