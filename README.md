@@ -69,5 +69,10 @@
 ![Pantalla de victoria](https://github.com/user-attachments/assets/aa97b431-176a-4be6-81ae-0b79639c4bb1)
 
 
+**Pantalla de derrota:**
+
+![Pantalla de derrota](https://github.com/user-attachments/assets/fcad9676-3b57-435f-b7af-04f39926413f)
+
+
 ### BARRAS INDICADORAS: 
 
