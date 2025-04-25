@@ -39,6 +39,11 @@
 ![Prop moneda](https://github.com/user-attachments/assets/c9a74af3-80e9-47b2-ba65-b316c29ecd4d)
 
 
+**Sprite sheet y animación de la llave:**
+
+![Prop llave](https://github.com/user-attachments/assets/f09223ae-f461-45f3-b1a5-be1b90d8d978)
+
+
 
 
 
