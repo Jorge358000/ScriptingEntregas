@@ -1,8 +1,6 @@
 # **NIVEL #1:**
+## **DISEÑO DE NIVEL:**
 
-## **ARTE NIVEL #1:**
-
-### **DISEÑO DE NIVEL:**
 **Base de nivel:**
   ![Nivel base](https://github.com/user-attachments/assets/34caff0d-08db-466e-960f-512016839819)
 
@@ -14,7 +12,8 @@
 
 **Nivel 1: Hard:**
   ![Nivel 1-hard](https://github.com/user-attachments/assets/db685864-8644-4e5d-9139-01343aabec3f)
-
+  
+## **ARTE NIVEL #1:**
 
 ### **PERSONAJE PRINCIPAL:**
 
