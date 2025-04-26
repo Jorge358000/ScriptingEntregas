@@ -1,16 +1,16 @@
 # **NIVEL #1:**
-## **DISEÑO DE NIVEL:**
+## **DISEÑO DE NIVEL #1:**
 
-**Base de nivel:**
+**1. Base de nivel:**
   ![Nivel base](https://github.com/user-attachments/assets/34caff0d-08db-466e-960f-512016839819)
 
-**Nivel 1: Easy:**
+**2. Nivel 1: Easy:**
   ![Nivel 1- easy](https://github.com/user-attachments/assets/8e784d74-b824-4ebb-a2c3-0fe935721aef)
 
-**Nivel 1: Medium:**
+**3. Nivel 1: Medium:**
   ![Nivel 1- medium](https://github.com/user-attachments/assets/f5bede29-59d0-4088-b3b5-82f5b9d29273)
 
-**Nivel 1: Hard:**
+**4. Nivel 1: Hard:**
   ![Nivel 1-hard](https://github.com/user-attachments/assets/db685864-8644-4e5d-9139-01343aabec3f)
   
 ## **ARTE NIVEL #1:**
