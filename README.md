@@ -135,6 +135,12 @@
 
 ## **ARTE NIVEL #1:**
 
+### **EASTER EGG:**
+
+### **POWER UP:**
+
+### **PROPS:**
+
 ### **PLATAFORMAS:**
 **1. Plataforma estatica:**
   ![pixil-frame-0](https://github.com/user-attachments/assets/8dac0c31-744d-45f6-bb80-e472be474891)
