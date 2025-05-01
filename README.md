@@ -78,7 +78,7 @@
 
 **1. Sprite sheet y animación del personaje caminando:**
 
-![Sprite Sheet personaje caminando 2](https://github.com/user-attachments/assets/24fac099-5a62-4458-9ba5-1240a27d001c)
+![Protagonista caminando](https://github.com/user-attachments/assets/003450c1-19a0-4cfd-97f0-f6f78d9f8282)
 
 ![Personaje caminando](https://github.com/user-attachments/assets/d93c9639-ecc2-4dab-a1a2-28703064ec9d)
 
