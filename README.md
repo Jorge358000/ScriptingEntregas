@@ -32,10 +32,15 @@
 
 
 
-**5. Fondo nivel 1:**
+**5. Fondo nivel 1 (agua):**
 
 ![pixil-frame-0 (13)](https://github.com/user-attachments/assets/7d93e503-d3cf-4b70-97eb-22e27fcee98b)
 
+
+
+**6. Fondo nivel 2 (Cueva):**
+
+![Fondo nivel 2](https://github.com/user-attachments/assets/be3cffce-a226-4d54-ab62-977538ce89cb)
 
 
 ### **BARRAS INDICADORAS:**
@@ -108,8 +113,6 @@
 
 # **NIVEL #1:**
 
-## **ARTE NIVEL #1:**
-
 ## **DISEÑO DE NIVEL #1:**
 
 **1. Base de nivel:**
@@ -124,7 +127,9 @@
 **4. Nivel 1: Hard:**
   ![Nivel 1-hard](https://github.com/user-attachments/assets/db685864-8644-4e5d-9139-01343aabec3f)
 
-### **PLATAFORMAS NIVEL #1:**
+## **ARTE NIVEL #1:**
+
+### **PLATAFORMAS:**
 **1. Plataforma estatica:**
   ![pixil-frame-0](https://github.com/user-attachments/assets/8dac0c31-744d-45f6-bb80-e472be474891)
 
@@ -139,7 +144,7 @@
   ![pixil-frame-0 (2)](https://github.com/user-attachments/assets/6efc0ba4-ac6f-419e-af55-015fc7688a48)
 
 
-### **ENEMIGOS NIVEL #1:**
+### **ENEMIGOS:**
 **1. Sprite y animación Pez globo:**
 
 ![pixilart-sprite](https://github.com/user-attachments/assets/bbf0d7ba-fa88-4946-9368-2c4d323b2c19)
@@ -164,11 +169,4 @@
 
 
 
-
-
-
-
-**3. Fondo nivel 2 (Cueva):**
-
-![Fondo nivel 2](https://github.com/user-attachments/assets/be3cffce-a226-4d54-ab62-977538ce89cb)
 
