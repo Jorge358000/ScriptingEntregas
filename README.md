@@ -153,6 +153,10 @@
 
 ![pixil-gif-drawing](https://github.com/user-attachments/assets/f932060c-e2a9-4de7-8bb8-57f9d3ec7a32)
 
+**3. Estrella:**
+![pixilart-sprite (1)](https://github.com/user-attachments/assets/36e9283d-db74-456d-a568-5d7dfc7060b2)
+
+![pixil-gif-drawing (1)](https://github.com/user-attachments/assets/c1de0dc2-0b7d-4385-8ebd-19ad17823431)
 
 
 ### **PLATAFORMAS:**
