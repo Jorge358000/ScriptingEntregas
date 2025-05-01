@@ -145,6 +145,9 @@
 
 
 ### **PROPS:**
+**1. CORAL:**
+![pixil-frame-0 (1)](https://github.com/user-attachments/assets/31fd1e5f-dedb-4b4e-93e0-152a22442a75)
+
 
 ### **PLATAFORMAS:**
 **1. Plataforma estatica:**
