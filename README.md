@@ -94,9 +94,7 @@
 
 ![Personaje atacando](https://github.com/user-attachments/assets/39523475-3ad9-4578-9af3-7254a6bfa742)
 
-
-![personaje atacando](https://github.com/user-attachments/assets/adea30c7-b55e-4172-a218-f546468db369)
-
+![pixil-gif-drawing (2)](https://github.com/user-attachments/assets/0f858100-38c0-4f7e-914c-30637181f1ee)
 
 **4. Sprite sheet y animación del personaje cuando es herido:**
 
