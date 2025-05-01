@@ -133,7 +133,11 @@
 **2. Plataforma movil:**
   ![pixil-frame-0 (1)](https://github.com/user-attachments/assets/09cb3b34-0c2f-4728-a06e-48022f228683)
 
-**3. Plataforma de base:**
+**3. Plataforma para arrastrar:**
+![pixil-frame-0 (1)](https://github.com/user-attachments/assets/6c13315e-8018-4db3-ad0b-efb13f3e7a63)
+
+
+**4. Plataforma de base:**
   ![pixil-frame-0 (2)](https://github.com/user-attachments/assets/6efc0ba4-ac6f-419e-af55-015fc7688a48)
 
 
