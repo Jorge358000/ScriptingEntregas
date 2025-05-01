@@ -142,6 +142,12 @@
 
 **2. Sprite y animación Barracuda:**
 
+![pixilart-sprite](https://github.com/user-attachments/assets/4f91a635-13e2-4981-b84e-ff32fb2053a6)
+
+
+![pixil-gif-drawing](https://github.com/user-attachments/assets/24527efc-1a70-4d93-b2e5-29a9897e2955)
+
+
 **3. Sprite y animación Tiburón:**
 
 ![pixilart-sprite](https://github.com/user-attachments/assets/2f29589a-d6c4-47c9-bdba-1aff18976505)
