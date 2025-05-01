@@ -55,6 +55,8 @@
 
 ![Barra de munición](https://github.com/user-attachments/assets/9a732e2e-b3f4-4a59-a56d-7308f20e679f)
 
+![pixil-frame-0 (15)](https://github.com/user-attachments/assets/8d4a743e-3199-4010-a18c-b630a30f153a)
+
 ### **PROPS GENERALES:**
 
 **1. Sprite sheet y animación de la moneda:**
