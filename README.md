@@ -148,6 +148,12 @@
 **1. CORAL:**
 ![pixil-frame-0 (1)](https://github.com/user-attachments/assets/31fd1e5f-dedb-4b4e-93e0-152a22442a75)
 
+**2. Estrella moviendose:**
+![pixilart-sprite](https://github.com/user-attachments/assets/7130233a-5cd3-4105-a6df-4e1fa9c8fad0)
+
+![pixil-gif-drawing](https://github.com/user-attachments/assets/f932060c-e2a9-4de7-8bb8-57f9d3ec7a32)
+
+
 
 ### **PLATAFORMAS:**
 **1. Plataforma estatica:**
