@@ -109,6 +109,14 @@
 
 ![Idol](https://github.com/user-attachments/assets/cd3e1c57-1c2e-4333-958c-ab693f28cd9e)
 
+
+**5. Sprite sheet y animación del personaje cuando recibe un power up:**
+
+![Protagonista cuando recibe un Power Up](https://github.com/user-attachments/assets/a508fc46-8b5e-4e90-8f9d-e97c24596aea)
+
+![pixil-gif-drawing (3)](https://github.com/user-attachments/assets/dd7283c7-b1cd-4bf7-ad27-ce56217135da)
+
+
 # **NIVEL #1:**
 
 ## **DISEÑO DE NIVEL #1:**
