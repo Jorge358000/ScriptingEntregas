@@ -70,8 +70,8 @@
 
 ![Sprite sheet llave](https://github.com/user-attachments/assets/9ac3f863-6c1a-4ed3-b05d-28f05992f225)
 
-![Idol](https://github.com/user-attachments/assets/aab13b3d-0b39-412e-b6bc-5def91e5807d)
-  
+![Prop llave](https://github.com/user-attachments/assets/f71bfb66-4133-46c8-8785-8a583d92e21b)
+
 ## **ARTE GENERAL:**
 
 ### **PERSONAJE PRINCIPAL:**
