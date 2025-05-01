@@ -1,4 +1,9 @@
 # **NIVEL #1:**
+
+## **LOGO NIVEL #1:**
+![ChatGPT Image 1 may 2025, 14_00_58](https://github.com/user-attachments/assets/3e6f0785-964e-4333-93ac-e2e0f4b543f4)
+
+
 ## **DISEÑO DE NIVEL #1:**
 
 **1. Base de nivel:**
@@ -142,10 +147,9 @@
 
 **2. Sprite y animación Barracuda:**
 
-![pixilart-sprite](https://github.com/user-attachments/assets/4f91a635-13e2-4981-b84e-ff32fb2053a6)
+![pixilart-sprite](https://github.com/user-attachments/assets/38ec3a3e-885e-45b8-9943-9f1a3e866fb8)
 
-
-![pixil-gif-drawing](https://github.com/user-attachments/assets/24527efc-1a70-4d93-b2e5-29a9897e2955)
+![pixil-gif-drawing](https://github.com/user-attachments/assets/022798bc-fe66-498a-94b0-3c7913222861)
 
 
 **3. Sprite y animación Tiburón:**
