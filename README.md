@@ -1,4 +1,4 @@
-# **NIVEL #1:**
+# **Generalidades:**
 
 ## **LOGO:**
 ![ChatGPT Image 1 may 2025, 14_00_58](https://github.com/user-attachments/assets/3e6f0785-964e-4333-93ac-e2e0f4b543f4)
@@ -51,20 +51,6 @@
 **2. Barra que indica cuantas municiones tiene el personaje:**
 
 ![Barra de munición](https://github.com/user-attachments/assets/9a732e2e-b3f4-4a59-a56d-7308f20e679f)
-
-## **DISEÑO DE NIVEL #1:**
-
-**1. Base de nivel:**
-  ![Nivel base](https://github.com/user-attachments/assets/34caff0d-08db-466e-960f-512016839819)
-
-**2. Nivel 1: Easy:**
-  ![Nivel 1- easy](https://github.com/user-attachments/assets/8e784d74-b824-4ebb-a2c3-0fe935721aef)
-
-**3. Nivel 1: Medium:**
-  ![Nivel 1- medium](https://github.com/user-attachments/assets/f5bede29-59d0-4088-b3b5-82f5b9d29273)
-
-**4. Nivel 1: Hard:**
-  ![Nivel 1-hard](https://github.com/user-attachments/assets/db685864-8644-4e5d-9139-01343aabec3f)
 
 ### **PROPS GENERALES:**
 
@@ -120,8 +106,24 @@
 
 ![Idol personaje](https://github.com/user-attachments/assets/a25f25e4-bc2b-4d4a-b6c3-a67ca979601f)
 
+# **NIVEL #1:**
 
 ## **ARTE NIVEL #1:**
+
+## **DISEÑO DE NIVEL #1:**
+
+**1. Base de nivel:**
+  ![Nivel base](https://github.com/user-attachments/assets/34caff0d-08db-466e-960f-512016839819)
+
+**2. Nivel 1: Easy:**
+  ![Nivel 1- easy](https://github.com/user-attachments/assets/8e784d74-b824-4ebb-a2c3-0fe935721aef)
+
+**3. Nivel 1: Medium:**
+  ![Nivel 1- medium](https://github.com/user-attachments/assets/f5bede29-59d0-4088-b3b5-82f5b9d29273)
+
+**4. Nivel 1: Hard:**
+  ![Nivel 1-hard](https://github.com/user-attachments/assets/db685864-8644-4e5d-9139-01343aabec3f)
+
 ### **PLATAFORMAS NIVEL #1:**
 **1. Plataforma estatica:**
   ![pixil-frame-0](https://github.com/user-attachments/assets/8dac0c31-744d-45f6-bb80-e472be474891)
