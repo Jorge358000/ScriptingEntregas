@@ -34,9 +34,7 @@
 
 **5. Fondo nivel 1 (agua):**
 
-![pixil-frame-0 (13)](https://github.com/user-attachments/assets/7d93e503-d3cf-4b70-97eb-22e27fcee98b)
-
-
+![pixil-frame-0 (16)](https://github.com/user-attachments/assets/a7faa22d-94d5-4061-a273-f24e85ae8941)
 
 **6. Fondo nivel 2 (Cueva):**
 
