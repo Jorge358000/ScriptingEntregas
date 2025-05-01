@@ -133,14 +133,15 @@
 
 
 ### **ENEMIGOS:**
-**1. Pez globo:**
+**1. Sprite y animación Pez globo:**
 
 ![pixilart-sprite](https://github.com/user-attachments/assets/bbf0d7ba-fa88-4946-9368-2c4d323b2c19)
 
 
 ![pixil-gif-drawing](https://github.com/user-attachments/assets/ba26a183-8723-4e7c-8793-ac5057fde1e4)
 
-
+**2. Sprite y animación Barracuda:**
+**3. Sprite y animación Tiburón:**
 
 
 
