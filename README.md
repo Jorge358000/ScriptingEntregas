@@ -139,6 +139,11 @@
 
 ### **POWER UP:**
 
+![pixilart-sprite](https://github.com/user-attachments/assets/ee457d72-af40-4723-ab77-46acc6ad2257)
+
+![pixil-gif-drawing](https://github.com/user-attachments/assets/3ce056b4-fb2c-43dd-ab7a-b5a43914b9d5)
+
+
 ### **PROPS:**
 
 ### **PLATAFORMAS:**
