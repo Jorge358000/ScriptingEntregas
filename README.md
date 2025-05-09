@@ -1,7 +1,8 @@
 # **Generalidades:**
 
 ## **LOGO:**
-![ChatGPT Image 1 may 2025, 14_00_58](https://github.com/user-attachments/assets/3e6f0785-964e-4333-93ac-e2e0f4b543f4)
+![ChatGPT_Image_1_may_2025__14_00_58-removebg-preview](https://github.com/user-attachments/assets/b573aedf-9766-4ccc-a835-4138d42c1a7f)
+
 
 ### **FONDOS:**
 
