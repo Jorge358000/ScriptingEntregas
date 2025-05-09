@@ -196,6 +196,23 @@
 
 ![pixil-gif-drawing](https://github.com/user-attachments/assets/4266de6e-2b0f-4cf6-943c-348b2b76b06c)
 
+# **NIVEL #2:**
+
+## **DISEÑO DE NIVEL #2:**
+
+**1. Base de nivel:**
+  ![basecueva](https://github.com/user-attachments/assets/4a23ee54-9b8e-4cf6-aac3-7b59deaabe6c)
+
+
+**2. Nivel 2: Easy:**
+  
+
+**3. Nivel 2: Medium:**
+  
+
+**4. Nivel 2: Hard:**
+  
+
 
 
 
