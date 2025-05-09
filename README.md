@@ -153,12 +153,13 @@
 **2. Estrella moviendose:**
 ![pixilart-sprite](https://github.com/user-attachments/assets/7130233a-5cd3-4105-a6df-4e1fa9c8fad0)
 
-![pixil-gif-drawing](https://github.com/user-attachments/assets/f932060c-e2a9-4de7-8bb8-57f9d3ec7a32)
+![pixil-gif-drawing](https://github.com/user-attachments/assets/34ebbd2b-9000-47dc-b122-aeb70c7fe199)
 
 **3. Estrella:**
 ![pixilart-sprite (1)](https://github.com/user-attachments/assets/36e9283d-db74-456d-a568-5d7dfc7060b2)
 
-![pixil-gif-drawing](https://github.com/user-attachments/assets/34ebbd2b-9000-47dc-b122-aeb70c7fe199)
+![pixil-gif-drawing](https://github.com/user-attachments/assets/87f6ee69-7cf1-4325-a9d1-ee8dd019a9c8)
+
 
 
 ### **PLATAFORMAS:**
