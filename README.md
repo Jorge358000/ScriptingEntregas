@@ -141,7 +141,8 @@
 
 ![pixilart-sprite](https://github.com/user-attachments/assets/ee457d72-af40-4723-ab77-46acc6ad2257)
 
-![pixil-gif-drawing](https://github.com/user-attachments/assets/3ce056b4-fb2c-43dd-ab7a-b5a43914b9d5)
+![pixil-gif-drawing](https://github.com/user-attachments/assets/afbd6175-8318-4763-9c1b-91afacab9999)
+
 
 
 ### **PROPS:**
@@ -194,7 +195,8 @@
 ![pixilart-sprite](https://github.com/user-attachments/assets/2f29589a-d6c4-47c9-bdba-1aff18976505)
 
 
-![pixil-gif-drawing](https://github.com/user-attachments/assets/4266de6e-2b0f-4cf6-943c-348b2b76b06c)
+![pixil-gif-drawing](https://github.com/user-attachments/assets/5c2620ca-3afb-47f8-b31a-ff877fb9bf63)
+
 
 # **NIVEL #2:**
 
