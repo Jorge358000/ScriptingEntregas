@@ -180,8 +180,8 @@
 
 ![pixilart-sprite](https://github.com/user-attachments/assets/bbf0d7ba-fa88-4946-9368-2c4d323b2c19)
 
+![pixil-gif-drawing](https://github.com/user-attachments/assets/a1bb6eac-4285-4ec4-bcd2-63be0610be67)
 
-![pixil-gif-drawing](https://github.com/user-attachments/assets/ba26a183-8723-4e7c-8793-ac5057fde1e4)
 
 **2. Sprite y animación Barracuda:**
 
