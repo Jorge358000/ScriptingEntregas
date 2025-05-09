@@ -107,7 +107,7 @@
 
 ![Idol personaje](https://github.com/user-attachments/assets/b5bfe3f7-ab5d-40c0-8e1b-f6badf5ccc86)
 
-![Idol](https://github.com/user-attachments/assets/cd3e1c57-1c2e-4333-958c-ab693f28cd9e)
+![pixil-gif-drawing (6)](https://github.com/user-attachments/assets/c3a43bc4-5903-44aa-9e1d-f6bd60f79389)
 
 
 **5. Sprite sheet y animación del personaje cuando recibe un power up:**
