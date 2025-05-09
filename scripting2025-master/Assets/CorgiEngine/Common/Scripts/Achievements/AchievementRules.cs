@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 using MoreMountains.Tools;
+using MoreMountains.CorgiEngine;
+
 
 namespace MoreMountains.CorgiEngine
 {
@@ -35,7 +37,8 @@ namespace MoreMountains.CorgiEngine
 				switch (characterEvent.EventType)
 				{
 					case MMCharacterEventTypes.Jump:
-						MMAchievementManager.AddProgress ("JumpAround", 1);
+						MMAchievementManager.UnlockAchievement ("PrimerSalto");
+						
 						break;
 				}	
 			}
@@ -46,7 +49,11 @@ namespace MoreMountains.CorgiEngine
 			switch (corgiEngineEvent.EventType)
 			{
 				case CorgiEngineEventTypes.LevelEnd:
-					MMAchievementManager.UnlockAchievement ("PrincessInAnotherCastle");
+					if(UnityEngine.SceneManagement.SceneManager.GetActiveScene().name == "Nivel1")
+					{
+                        MMAchievementManager.UnlockAchievement("PrincessInAnotherCastle");
+                    }
+					
 					break;
 				case CorgiEngineEventTypes.PlayerDeath:
 					MMAchievementManager.UnlockAchievement ("DeathIsOnlyTheBeginning");
@@ -60,12 +67,11 @@ namespace MoreMountains.CorgiEngine
 			{
 				if (pickableItemEvent.PickedItem.GetComponent<Coin>() != null)
 				{
-					MMAchievementManager.AddProgress ("MoneyMoneyMoney", 1);
+					MMAchievementManager.UnlockAchievement("MoneyMoneyMoney");
+					
 				}
-				if (pickableItemEvent.PickedItem.GetComponent<Stimpack>() != null)
-				{
-					MMAchievementManager.UnlockAchievement ("Medic");
-				}
+
+				
 			}
 		}
 

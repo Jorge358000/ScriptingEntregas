@@ -9,6 +9,7 @@ namespace MoreMountains.Tools
 	/// </summary>
 	public abstract class MMAchievementRules : MonoBehaviour, MMEventListener<MMGameEvent>
 	{
+
 		public MMAchievementList AchievementList;
 		[MMInspectorButton("PrintCurrentStatus")]
 		public bool PrintCurrentStatusBtn;
@@ -27,11 +28,9 @@ namespace MoreMountains.Tools
 		/// </summary>
 		protected virtual void Awake()
 		{
-			// we load the list of achievements, stored in a ScriptableObject in our Resources folder.
-			MMAchievementManager.LoadAchievementList (AchievementList);
-			// we load our saved file, to update that list with the saved values.
-			MMAchievementManager.LoadSavedAchievements ();
-		}
+            MMAchievementManager.LoadAchievementList(AchievementList);
+            MMAchievementManager.LoadSavedAchievements();
+        }
 
 		/// <summary>
 		/// On enable, we start listening for MMGameEvents. You may want to extend that to listen to other types of events.

@@ -1,6 +1,7 @@
 using UnityEngine;
 using System.Collections;
 using MoreMountains.Tools;
+using MoreMountains.CorgiEngine;
 
 namespace MoreMountains.CorgiEngine
 {

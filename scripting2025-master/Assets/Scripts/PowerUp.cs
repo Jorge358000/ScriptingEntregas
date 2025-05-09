@@ -1,34 +1,40 @@
 using System.Collections;
 using UnityEngine;
+using MoreMountains.Tools;
 using MoreMountains.CorgiEngine;
 
-public class PowerUp : PickableItem
+
+namespace MoreMountains.CorgiEngine
 {
-    public float velocidad = 1.5f;
-    public float duracion = 5f;
-    
-    protected override void Pick(GameObject picker)
+    public class PowerUp : PickableItem
     {
-        Character character = picker.GetComponent<Character>();
-        if (character != null)
+        public float velocidad = 1.5f;
+        public float duracion = 5f;
+
+        protected override void Pick(GameObject picker)
         {
-            CharacterHorizontalMovement movement = character.GetComponent<CharacterHorizontalMovement>();
-            if (movement != null)
+            Character character = picker.GetComponent<Character>();
+            if (character != null)
             {
-                character.StartCoroutine(BuffVelocidad(movement)); 
+                CharacterHorizontalMovement movement = character.GetComponent<CharacterHorizontalMovement>();
+                if (movement != null)
+                {
+                    character.StartCoroutine(BuffVelocidad(movement));
+                }
             }
+
+            Destroy(gameObject);
         }
 
-        Destroy(gameObject); 
-    } 
+        private IEnumerator BuffVelocidad(CharacterHorizontalMovement movement)
+        {
+            float originalMultiplier = movement.MovementSpeedMultiplier;
+            movement.MovementSpeedMultiplier = originalMultiplier * velocidad;
 
-    private IEnumerator BuffVelocidad(CharacterHorizontalMovement movement)
-    {
-        float originalMultiplier = movement.MovementSpeedMultiplier; 
-        movement.MovementSpeedMultiplier = originalMultiplier * velocidad; 
-        
-        yield return new WaitForSeconds(duracion); 
-        
-        movement.MovementSpeedMultiplier = originalMultiplier; 
+            yield return new WaitForSeconds(duracion);
+
+            movement.MovementSpeedMultiplier = originalMultiplier;
+        }
     }
 }
+
