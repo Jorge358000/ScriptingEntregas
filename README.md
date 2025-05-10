@@ -214,8 +214,36 @@
   ![medium](https://github.com/user-attachments/assets/f6b8063c-599a-4ee6-ad0d-e93e90eb0e16)
 
 **4. Nivel 2: Hard:**
-  
+  ![hard](https://github.com/user-attachments/assets/ff029433-e545-436f-9a02-bbdeed115c5a)
 
+## **ARTE NIVEL #1:**
+
+### **EASTER EGG:**
+
+### **POWER UP:**
+
+### **PROPS:**
+**1. Cristales:**
+
+**2. Roca moviendose:**
+
+**3. Roca:**
+
+### **PLATAFORMAS:**
+**1. Plataforma estatica:**
+
+**2. Plataforma movil:**
+
+**3. Plataforma para arrastrar:**
+
+**4. Plataforma de base:**
+  
+### **ENEMIGOS:**
+**1. Sprite y animación Araña:**
+
+**2. Sprite y animación Gusano:**
+
+**3. Sprite y animación Murcielago:**
 
 
 
