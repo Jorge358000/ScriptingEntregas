@@ -212,7 +212,8 @@
   
 
 **3. Nivel 2: Medium:**
-  ![Uploading medium.png…]()
+  ![medium](https://github.com/user-attachments/assets/f6b8063c-599a-4ee6-ad0d-e93e90eb0e16)
+
 
 
 **4. Nivel 2: Hard:**
