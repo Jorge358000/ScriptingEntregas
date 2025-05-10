@@ -207,14 +207,11 @@
 **1. Base de nivel:**
   ![basecueva](https://github.com/user-attachments/assets/4a23ee54-9b8e-4cf6-aac3-7b59deaabe6c)
 
-
 **2. Nivel 2: Easy:**
-  
+  ![easy](https://github.com/user-attachments/assets/53194926-bb0b-4b18-bee8-5ee73042742b)
 
 **3. Nivel 2: Medium:**
   ![medium](https://github.com/user-attachments/assets/f6b8063c-599a-4ee6-ad0d-e93e90eb0e16)
-
-
 
 **4. Nivel 2: Hard:**
   
