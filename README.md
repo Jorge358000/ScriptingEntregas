@@ -212,7 +212,8 @@
   
 
 **3. Nivel 2: Medium:**
-  
+  ![Uploading medium.png…]()
+
 
 **4. Nivel 2: Hard:**
   
