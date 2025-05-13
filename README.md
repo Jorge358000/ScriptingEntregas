@@ -241,13 +241,16 @@
 **2. Roca moviendose:**
 ![pixilart-sprite (2)](https://github.com/user-attachments/assets/7043cde9-a25b-4876-81d3-5d62339610ea)
 
+![pixil-gif-drawing (2)](https://github.com/user-attachments/assets/74ce3566-7841-462b-8019-047ceea20019)
+
+![pixilart-sprite (1)](https://github.com/user-attachments/assets/f4758420-6975-49e1-b8da-ae938387163d)
+
+![pixil-gif-drawing (1)](https://github.com/user-attachments/assets/3df45caf-d390-41d8-b0c9-239d77647033)
 
 **3. Roca:**
-![pixilart-sprite (3)](https://github.com/user-attachments/assets/79c8ee4b-e203-4ccd-bab5-d2b53cb7c525)
-![pixil-gif-drawing (3)](https://github.com/user-attachments/assets/a0163ae1-1808-4cfb-b6a5-ba6d25104bc0)
-![pixil-gif-drawing (2)](https://github.com/user-attachments/assets/b8f54c1d-2d6b-4aa0-9b72-122de63b5fcb)
-![pixilart-sprite (1)](https://github.com/user-attachments/assets/52f40b6e-30ae-4191-b6ef-50e67e1e62bc)
-![pixil-gif-drawing (1)](https://github.com/user-attachments/assets/d569d935-ec46-4589-bc7c-17d43c7e0fe7)
+![pixilart-sprite (3)](https://github.com/user-attachments/assets/325fed1e-9a20-4546-9577-f7679f42241c)
+
+![pixil-gif-drawing (3)](https://github.com/user-attachments/assets/1fc1406f-8457-4583-878b-7debf040510b)
 
 ### **PLATAFORMAS:**
 **1. Plataforma estatica:**
