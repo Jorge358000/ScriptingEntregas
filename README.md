@@ -283,7 +283,9 @@
 
 
 **3. Sprite y animación Murcielago:**
+![pixilart-sprite](https://github.com/user-attachments/assets/580ec4ff-e65f-4165-b887-da333b9d289c)
 
+![pixil-gif-drawing](https://github.com/user-attachments/assets/8e46205e-6e2d-4e11-bc20-2cc9b96ce4d2)
 
 
 
