@@ -233,12 +233,14 @@
 
 ### **PROPS:**
 **1. Cristales:**
+
 ![pixilart-sprite](https://github.com/user-attachments/assets/85a0c520-ec8f-421e-a3bc-de5c897aadb6)
 
 ![pixil-gif-drawing](https://github.com/user-attachments/assets/e2fe909a-ee4c-4e76-9a72-828a310840f1)
 
 
 **2. Roca moviendose:**
+
 ![pixilart-sprite (2)](https://github.com/user-attachments/assets/7043cde9-a25b-4876-81d3-5d62339610ea)
 
 ![pixil-gif-drawing (2)](https://github.com/user-attachments/assets/74ce3566-7841-462b-8019-047ceea20019)
@@ -248,6 +250,7 @@
 ![pixil-gif-drawing (1)](https://github.com/user-attachments/assets/3df45caf-d390-41d8-b0c9-239d77647033)
 
 **3. Roca:**
+
 ![pixilart-sprite (3)](https://github.com/user-attachments/assets/325fed1e-9a20-4546-9577-f7679f42241c)
 
 ![pixil-gif-drawing (3)](https://github.com/user-attachments/assets/1fc1406f-8457-4583-878b-7debf040510b)
