@@ -73,10 +73,14 @@
 
 ![Prop llave](https://github.com/user-attachments/assets/f71bfb66-4133-46c8-8785-8a583d92e21b)
 
-**2. Sprite sheet y animación de la llave:**
+**3. Sprite y animación de la vida:**
 ![pixilart-sprite](https://github.com/user-attachments/assets/745e2137-ff16-4201-a233-18a73c123c99)
 
 ![pixil-gif-drawing (1)](https://github.com/user-attachments/assets/13eb1df1-2880-421a-a3a7-ce77f368a9ef)
+
+**4. Sprite y animación de las municiones:**
+
+
 
 ## **ARTE GENERAL:**
 
