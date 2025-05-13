@@ -263,7 +263,8 @@
 **3. Plataforma para arrastrar:**
 
 **4. Plataforma de base:**
-  
+  ![pixil-frame-0](https://github.com/user-attachments/assets/f9c907fa-4fd2-4edc-9efb-d9604ec0c4ab)
+
 ### **ENEMIGOS:**
 **1. Sprite y animación Araña:**
 
