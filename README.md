@@ -303,4 +303,66 @@
 ![pixil-gif-drawing](https://github.com/user-attachments/assets/8e46205e-6e2d-4e11-bc20-2cc9b96ce4d2)
 
 
+# **NIVEL #3:**
 
+## **DISEÑO DE NIVEL #3:**
+
+**1. Base de nivel:**
+
+**2. Nivel 3: Easy:**
+
+**3. Nivel 3: Medium:**
+
+**4. Nivel 3: Hard:**
+
+## **ARTE NIVEL #3:**
+
+### **EASTER EGG:**
+
+### **POWER UP:**
+
+### **PROPS:**
+**1. Cactus:**
+
+**2. Fruta de cactus movimiento:**
+
+**3. Fruta de cactus:**
+
+### **PLATAFORMAS:**
+**1. Plataforma estatica:**
+
+**2. Plataforma movil:**
+
+**3. Plataforma para arrastrar:**
+
+**4. Plataforma de base:**
+
+### **ENEMIGOS:**
+**1. Sprite y animación Escorpiones:**
+
+**2. Sprite y animación Sapos:**
+
+**3. Sprite y animación Serpientes:**
+
+
+# **NIVEL #4:**
+
+## **DISEÑO DE NIVEL #4:**
+
+**1. Base de nivel:**
+
+**2. Nivel 4:**
+
+## **ARTE NIVEL #4:**
+
+### **EASTER EGG:**
+
+### **POWER UP:**
+
+### **PROPS:**
+**1. Tumbas:**
+
+**2. Huesos:**
+
+### **ENEMIGOS:**
+**1. Sprite y animación Fantasmas:**
