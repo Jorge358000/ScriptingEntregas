@@ -277,6 +277,11 @@
 
 **2. Sprite y animación Gusano:**
 
+![pixilart-sprite](https://github.com/user-attachments/assets/b15bf527-d401-47af-875b-bf349bb083af)
+
+![pixil-gif-drawing (1)](https://github.com/user-attachments/assets/6bebf636-05d7-4ea5-b64d-ffee14167d49)
+
+
 **3. Sprite y animación Murcielago:**
 
 
