@@ -233,6 +233,10 @@
 
 ### **PROPS:**
 **1. Cristales:**
+![pixilart-sprite](https://github.com/user-attachments/assets/85a0c520-ec8f-421e-a3bc-de5c897aadb6)
+
+![pixil-gif-drawing](https://github.com/user-attachments/assets/e2fe909a-ee4c-4e76-9a72-828a310840f1)
+
 
 **2. Roca moviendose:**
 
