@@ -228,7 +228,8 @@
 ### **POWER UP:**
 ![pixilart-sprite](https://github.com/user-attachments/assets/c314f339-e6db-4038-8e6c-19ff74a6689d)
 
-![pixil-gif-drawing](https://github.com/user-attachments/assets/09066816-aedc-4069-8785-5d73150dc35b)
+![pixil-gif-drawing (1)](https://github.com/user-attachments/assets/281c98f5-1a40-4ad9-a546-5963f22cfc11)
+
 
 ### **PROPS:**
 **1. Cristales:**
