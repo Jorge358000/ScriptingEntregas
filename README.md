@@ -87,6 +87,12 @@
 
 ![pixil-frame-0 (1)](https://github.com/user-attachments/assets/570ad998-f097-42b6-acb5-4859d58021db)
 
+**6. Sprite y animación de gato:**
+![pixilart-sprite](https://github.com/user-attachments/assets/550f3757-30ce-4d30-bcc4-cc5ce45ed410)
+
+![pixil-gif-drawing](https://github.com/user-attachments/assets/c42aa122-7710-46f7-9153-bd62eddb5cc4)
+
+
 ## **ARTE GENERAL:**
 
 ### **PERSONAJE PRINCIPAL:**
