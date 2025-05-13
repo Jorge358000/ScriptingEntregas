@@ -239,6 +239,12 @@
 
 
 **2. Roca moviendose:**
+![pixilart-sprite (1)](https://github.com/user-attachments/assets/c1c156ba-4d38-4eb1-80cb-31e73c596b5b)
+![pixil-gif-drawing (1)](https![pixilart-sprite (2)](https://github.com/user-attachments/assets/b1f9e0a0-1f1b-4d2f-b3f0-3e27742e22a0)
+://github.com/user-attachments/assets/ed45aedb-13c9-41f1-b7aa-124f401cfebd)
+![pixilart-sprite (2)](https://github.com/user-attachments/assets/7aaa656b-ddac-4396-a1cf-bbabf1c7d663)
+
+![pixil-gif-drawing (2)](https://github.com/user-attachments/assets/0cf69fb6-5ce4-4b8f-9c0e-3f50c4807d27)
 
 **3. Roca:**
 
