@@ -270,7 +270,9 @@
 
 ### **ENEMIGOS:**
 **1. Sprite y animación Araña:**
+
 ![pixilart-sprite](https://github.com/user-attachments/assets/ab9a2aa6-fb61-4e0c-a318-40bc35232f65)
+
 ![pixil-gif-drawing](https://github.com/user-attachments/assets/605113e5-538d-4e20-9630-7c8f2cb7c438)
 
 **2. Sprite y animación Gusano:**
