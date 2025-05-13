@@ -74,13 +74,18 @@
 ![Prop llave](https://github.com/user-attachments/assets/f71bfb66-4133-46c8-8785-8a583d92e21b)
 
 **3. Sprite y animación de la vida:**
+
 ![pixilart-sprite](https://github.com/user-attachments/assets/745e2137-ff16-4201-a233-18a73c123c99)
 
 ![pixil-gif-drawing (1)](https://github.com/user-attachments/assets/13eb1df1-2880-421a-a3a7-ce77f368a9ef)
 
-**4. Sprite y animación de las municiones:**
+**4. imagen para la tienda de las municiones:**
 
+![pixil-frame-0](https://github.com/user-attachments/assets/15da1a11-96d7-4f5e-9029-0ee313216a15)
 
+**5. imagen para la tienda de la vida:**
+
+![pixil-frame-0 (1)](https://github.com/user-attachments/assets/570ad998-f097-42b6-acb5-4859d58021db)
 
 ## **ARTE GENERAL:**
 
