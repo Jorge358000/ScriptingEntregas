@@ -73,6 +73,26 @@
 
 ![Prop llave](https://github.com/user-attachments/assets/f71bfb66-4133-46c8-8785-8a583d92e21b)
 
+**3. Sprite y animación de la vida:**
+
+![pixilart-sprite](https://github.com/user-attachments/assets/745e2137-ff16-4201-a233-18a73c123c99)
+
+![pixil-gif-drawing (1)](https://github.com/user-attachments/assets/13eb1df1-2880-421a-a3a7-ce77f368a9ef)
+
+**4. imagen para la tienda de las municiones:**
+
+![pixil-frame-0](https://github.com/user-attachments/assets/15da1a11-96d7-4f5e-9029-0ee313216a15)
+
+**5. imagen para la tienda de la vida:**
+
+![pixil-frame-0 (1)](https://github.com/user-attachments/assets/570ad998-f097-42b6-acb5-4859d58021db)
+
+**6. Sprite y animación de gato:**
+![pixilart-sprite](https://github.com/user-attachments/assets/550f3757-30ce-4d30-bcc4-cc5ce45ed410)
+
+![pixil-gif-drawing](https://github.com/user-attachments/assets/c42aa122-7710-46f7-9153-bd62eddb5cc4)
+
+
 ## **ARTE GENERAL:**
 
 ### **PERSONAJE PRINCIPAL:**
@@ -207,17 +227,142 @@
 **1. Base de nivel:**
   ![basecueva](https://github.com/user-attachments/assets/4a23ee54-9b8e-4cf6-aac3-7b59deaabe6c)
 
-
 **2. Nivel 2: Easy:**
-  
+  ![easy](https://github.com/user-attachments/assets/53194926-bb0b-4b18-bee8-5ee73042742b)
 
 **3. Nivel 2: Medium:**
-  
+  ![medium](https://github.com/user-attachments/assets/f6b8063c-599a-4ee6-ad0d-e93e90eb0e16)
 
 **4. Nivel 2: Hard:**
-  
+  ![hard](https://github.com/user-attachments/assets/ff029433-e545-436f-9a02-bbdeed115c5a)
+
+## **ARTE NIVEL #1:**
+
+### **EASTER EGG:**
+
+### **POWER UP:**
+![pixilart-sprite](https://github.com/user-attachments/assets/c314f339-e6db-4038-8e6c-19ff74a6689d)
+
+![pixil-gif-drawing (1)](https://github.com/user-attachments/assets/281c98f5-1a40-4ad9-a546-5963f22cfc11)
 
 
+### **PROPS:**
+**1. Cristales:**
+
+![pixilart-sprite](https://github.com/user-attachments/assets/85a0c520-ec8f-421e-a3bc-de5c897aadb6)
+
+![pixil-gif-drawing](https://github.com/user-attachments/assets/e2fe909a-ee4c-4e76-9a72-828a310840f1)
 
 
+**2. Roca moviendose:**
 
+![pixilart-sprite (2)](https://github.com/user-attachments/assets/7043cde9-a25b-4876-81d3-5d62339610ea)
+
+![pixil-gif-drawing (2)](https://github.com/user-attachments/assets/74ce3566-7841-462b-8019-047ceea20019)
+
+![pixilart-sprite (1)](https://github.com/user-attachments/assets/f4758420-6975-49e1-b8da-ae938387163d)
+
+![pixil-gif-drawing (1)](https://github.com/user-attachments/assets/3df45caf-d390-41d8-b0c9-239d77647033)
+
+**3. Roca:**
+
+![pixilart-sprite (3)](https://github.com/user-attachments/assets/325fed1e-9a20-4546-9577-f7679f42241c)
+
+![pixil-gif-drawing (3)](https://github.com/user-attachments/assets/1fc1406f-8457-4583-878b-7debf040510b)
+
+### **PLATAFORMAS:**
+**1. Plataforma estatica:**
+![pixil-frame-0 (1)](https://github.com/user-attachments/assets/dc9b4041-e99e-4add-9f97-6d3e567bee27)
+
+**2. Plataforma movil:**
+![pixil-frame-0](https://github.com/user-attachments/assets/3d4678a6-97c4-4052-8396-93d2bb123525)
+
+**3. Plataforma para arrastrar:**
+![pixil-frame-0](https://github.com/user-attachments/assets/30a30537-b7bc-42e8-8aa1-e5e601d2945d)
+
+**4. Plataforma de base:**
+  ![pixil-frame-0](https://github.com/user-attachments/assets/f9c907fa-4fd2-4edc-9efb-d9604ec0c4ab)
+
+### **ENEMIGOS:**
+**1. Sprite y animación Araña:**
+
+![pixilart-sprite](https://github.com/user-attachments/assets/ba072354-efac-4ab3-9c79-992d2a22cf6d)
+
+![pixil-gif-drawing](https://github.com/user-attachments/assets/696e8ea6-ade0-419d-ac68-afef4bdc0b16)
+
+**2. Sprite y animación Gusano:**
+
+![pixilart-sprite](https://github.com/user-attachments/assets/b15bf527-d401-47af-875b-bf349bb083af)
+
+![pixil-gif-drawing (1)](https://github.com/user-attachments/assets/6bebf636-05d7-4ea5-b64d-ffee14167d49)
+
+
+**3. Sprite y animación Murcielago:**
+![pixilart-sprite](https://github.com/user-attachments/assets/580ec4ff-e65f-4165-b887-da333b9d289c)
+
+![pixil-gif-drawing](https://github.com/user-attachments/assets/8e46205e-6e2d-4e11-bc20-2cc9b96ce4d2)
+
+
+# **NIVEL #3:**
+
+## **DISEÑO DE NIVEL #3:**
+
+**1. Base de nivel:**
+
+**2. Nivel 3: Easy:**
+
+**3. Nivel 3: Medium:**
+
+**4. Nivel 3: Hard:**
+
+## **ARTE NIVEL #3:**
+
+### **EASTER EGG:**
+
+### **POWER UP:**
+
+### **PROPS:**
+**1. Cactus:**
+
+**2. Fruta de cactus movimiento:**
+
+**3. Fruta de cactus:**
+
+### **PLATAFORMAS:**
+**1. Plataforma estatica:**
+
+**2. Plataforma movil:**
+
+**3. Plataforma para arrastrar:**
+
+**4. Plataforma de base:**
+
+### **ENEMIGOS:**
+**1. Sprite y animación Escorpiones:**
+
+**2. Sprite y animación Sapos:**
+
+**3. Sprite y animación Serpientes:**
+
+
+# **NIVEL #4:**
+
+## **DISEÑO DE NIVEL #4:**
+
+**1. Base de nivel:**
+
+**2. Nivel 4:**
+
+## **ARTE NIVEL #4:**
+
+### **EASTER EGG:**
+
+### **POWER UP:**
+
+### **PROPS:**
+**1. Tumbas:**
+
+**2. Huesos:**
+
+### **ENEMIGOS:**
+**1. Sprite y animación Fantasmas:**
