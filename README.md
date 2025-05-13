@@ -260,6 +260,7 @@
 ![pixil-frame-0 (1)](https://github.com/user-attachments/assets/dc9b4041-e99e-4add-9f97-6d3e567bee27)
 
 **2. Plataforma movil:**
+![pixil-frame-0](https://github.com/user-attachments/assets/3d4678a6-97c4-4052-8396-93d2bb123525)
 
 **3. Plataforma para arrastrar:**
 ![pixil-frame-0](https://github.com/user-attachments/assets/30a30537-b7bc-42e8-8aa1-e5e601d2945d)
