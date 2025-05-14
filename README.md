@@ -372,6 +372,10 @@
 ### **ENEMIGOS:**
 **1. Sprite y animación Escorpiones:**
 
+![pixilart-sprite](https://github.com/user-attachments/assets/7b32ee9c-ca8a-4ead-8279-afe72561b6f2)
+
+![pixil-gif-drawing](https://github.com/user-attachments/assets/f94a8422-4138-4292-a91d-865cafafcd88)
+
 **2. Sprite y animación Sapos:**
 
 **3. Sprite y animación Serpientes:**
