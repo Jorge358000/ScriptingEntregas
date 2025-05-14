@@ -404,8 +404,6 @@
 
 ### **EASTER EGG:**
 
-### **POWER UP:**
-
 ### **PROPS:**
 **1. Tumbas:**
 
