@@ -29,7 +29,7 @@ public class FinalLevel : MonoBehaviour, MMEventListener<PickableItemEvent>
         if(coin != null)
         {            
             puntos += coin.PointsToAdd;
-            if(puntos == 60)
+            if(puntos == 160)
             {
                 puerta.SetActive(true);
             }
