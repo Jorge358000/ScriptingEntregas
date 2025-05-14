@@ -355,19 +355,38 @@
 ### **PLATAFORMAS:**
 **1. Plataforma estatica:**
 
+![pixil-frame-0](https://github.com/user-attachments/assets/348e5047-bea4-4690-b85f-e529c82c6d31)
+
 **2. Plataforma movil:**
+
+![pixil-frame-0](https://github.com/user-attachments/assets/87e74f79-a1dd-4438-b899-1e447e5863aa)
 
 **3. Plataforma para arrastrar:**
 
+![pixil-frame-0 (1)](https://github.com/user-attachments/assets/7d8a0d58-b5a7-48b4-b923-a2ce87120fd9)
+
 **4. Plataforma de base:**
+
+![pixil-frame-0](https://github.com/user-attachments/assets/46a8fa41-2795-43c8-97e3-e204bbcbf03b)
 
 ### **ENEMIGOS:**
 **1. Sprite y animación Escorpiones:**
 
+![pixilart-sprite](https://github.com/user-attachments/assets/7b32ee9c-ca8a-4ead-8279-afe72561b6f2)
+
+![pixil-gif-drawing](https://github.com/user-attachments/assets/f94a8422-4138-4292-a91d-865cafafcd88)
+
 **2. Sprite y animación Sapos:**
+
+![pixilart-sprite](https://github.com/user-attachments/assets/66959033-d9f7-4676-9569-83d1a2b8758d)
+
+![pixil-gif-drawing](https://github.com/user-attachments/assets/c40b38b3-9d2d-4da7-ae3d-dec3f1eda7c1)
 
 **3. Sprite y animación Serpientes:**
 
+![pixilart-sprite](https://github.com/user-attachments/assets/c5189d9a-af31-4193-b085-6e560dc3da91)
+
+![pixil-gif-drawing](https://github.com/user-attachments/assets/bc7f69d1-fdad-4f35-bf64-7409f65b8dc3)
 
 # **NIVEL #4:**
 
@@ -383,14 +402,35 @@
 
 ## **ARTE NIVEL #4:**
 
-### **EASTER EGG:**
+### **PLATAFORMAS:**
 
-### **POWER UP:**
+**1. Plataforma base:**
+
+![pixil-frame-0](https://github.com/user-attachments/assets/935bd90e-f055-46c5-b5ee-d097f9ddd178)
+
+### **EASTER EGG:**
 
 ### **PROPS:**
 **1. Tumbas:**
 
+![pixil-frame-0](https://github.com/user-attachments/assets/36593718-184a-421f-8ccb-51a95669f705)
+
 **2. Huesos:**
+
+![hueso](https://github.com/user-attachments/assets/236dc7fd-d710-4dcd-8c93-1ed6f5f931c3)
+
+![pixil-gif-drawing](https://github.com/user-attachments/assets/7ef7530d-b269-4281-b2d4-077be7940287)
+
+**3. Huesos moviendose:**
+
+![pixilart-sprite](https://github.com/user-attachments/assets/2283c6d8-c9f1-4fc6-a5b4-6bac5fb6345b)
+
+![pixil-gif-drawing (1)](https://github.com/user-attachments/assets/86b8dc0d-bfd1-4051-adb6-451f1d5460a6)
 
 ### **ENEMIGOS:**
 **1. Sprite y animación Fantasmas:**
+
+![pixilart-sprite](https://github.com/user-attachments/assets/65a1fc7d-587c-4a5a-93b8-1c8f32a1ec2b)
+
+![pixil-gif-drawing](https://github.com/user-attachments/assets/c0222bfe-a164-49b8-a88f-2d9c3a01381b)
+
