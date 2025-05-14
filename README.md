@@ -336,6 +336,10 @@
 ### **PROPS:**
 **1. Cactus:**
 
+![pixil-frame-0](https://github.com/user-attachments/assets/e77c0772-0998-4675-99fc-df8239c987b4)
+
+![pixil-frame-0 (1)](https://github.com/user-attachments/assets/9bda3f53-3c35-4eed-b9a0-c59c7210244a)
+
 **2. Fruta de cactus movimiento:**
 
 **3. Fruta de cactus:**
