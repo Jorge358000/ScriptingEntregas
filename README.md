@@ -321,6 +321,8 @@
 
 **4. Nivel 3: Hard:**
 
+![3](https://github.com/user-attachments/assets/078d42c0-d3ee-4932-92f5-0abf214f23dc)
+
 ## **ARTE NIVEL #3:**
 
 ### **EASTER EGG:**
