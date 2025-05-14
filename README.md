@@ -329,6 +329,10 @@
 
 ### **POWER UP:**
 
+![pixilart-sprite](https://github.com/user-attachments/assets/3d78c8f8-361c-4919-91b1-009bfe5c83d2)
+
+![pixil-gif-drawing](https://github.com/user-attachments/assets/097f0d03-5a66-456e-a041-47448f6c450f)
+
 ### **PROPS:**
 **1. Cactus:**
 
