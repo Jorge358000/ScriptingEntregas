@@ -407,6 +407,8 @@
 ### **PROPS:**
 **1. Tumbas:**
 
+![pixil-frame-0](https://github.com/user-attachments/assets/36593718-184a-421f-8ccb-51a95669f705)
+
 **2. Huesos:**
 
 ### **ENEMIGOS:**
