@@ -348,6 +348,10 @@
 
 **3. Fruta de cactus:**
 
+![frutamoviendose](https://github.com/user-attachments/assets/380fbfa8-21bd-455d-830f-4fdc30078816)
+
+![pixil-gif-drawing](https://github.com/user-attachments/assets/65585278-0847-4295-bb48-eb8209947ff8)
+
 ### **PLATAFORMAS:**
 **1. Plataforma estatica:**
 
