@@ -317,6 +317,8 @@
 
 **3. Nivel 3: Medium:**
 
+![2](https://github.com/user-attachments/assets/57bc3d1f-6272-4540-b60c-b6328e3486ed)
+
 **4. Nivel 3: Hard:**
 
 ## **ARTE NIVEL #3:**
