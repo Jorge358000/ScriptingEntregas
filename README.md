@@ -308,6 +308,7 @@
 ## **DISEÑO DE NIVEL #3:**
 
 **1. Base de nivel:**
+<img width="496" alt="image" src="https://github.com/user-attachments/assets/ecb99514-5557-40e5-8b4d-7274e2afb5c5" />
 
 **2. Nivel 3: Easy:**
 
