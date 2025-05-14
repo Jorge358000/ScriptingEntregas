@@ -357,7 +357,7 @@
 
 **2. Plataforma movil:**
 
-![plataformamovil](https://github.com/user-attachments/assets/971525a3-d804-4929-ba32-6ab4ebbb611e)
+![pixil-frame-0](https://github.com/user-attachments/assets/87e74f79-a1dd-4438-b899-1e447e5863aa)
 
 **3. Plataforma para arrastrar:**
 
