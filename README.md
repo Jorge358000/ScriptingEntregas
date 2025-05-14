@@ -342,6 +342,10 @@
 
 **2. Fruta de cactus movimiento:**
 
+![fruta quieta](https://github.com/user-attachments/assets/9604f0e0-94e9-42e7-9441-81cc4811ef25)
+
+![pixil-gif-drawing](https://github.com/user-attachments/assets/85844de1-a15e-4683-ab46-035fdf294e4f)
+
 **3. Fruta de cactus:**
 
 ### **PLATAFORMAS:**
