@@ -411,5 +411,15 @@
 
 **2. Huesos:**
 
+![hueso](https://github.com/user-attachments/assets/236dc7fd-d710-4dcd-8c93-1ed6f5f931c3)
+
+![pixil-gif-drawing](https://github.com/user-attachments/assets/7ef7530d-b269-4281-b2d4-077be7940287)
+
+**3. Huesos moviendose:**
+
+![pixilart-sprite](https://github.com/user-attachments/assets/2283c6d8-c9f1-4fc6-a5b4-6bac5fb6345b)
+
+![pixil-gif-drawing (1)](https://github.com/user-attachments/assets/86b8dc0d-bfd1-4051-adb6-451f1d5460a6)
+
 ### **ENEMIGOS:**
 **1. Sprite y animación Fantasmas:**
