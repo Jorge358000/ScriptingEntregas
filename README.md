@@ -402,6 +402,12 @@
 
 ## **ARTE NIVEL #4:**
 
+### **PLATAFORMAS:**
+
+**1. Plataforma base:**
+
+![pixil-frame-0](https://github.com/user-attachments/assets/935bd90e-f055-46c5-b5ee-d097f9ddd178)
+
 ### **EASTER EGG:**
 
 ### **PROPS:**
