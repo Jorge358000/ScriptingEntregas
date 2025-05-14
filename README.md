@@ -367,6 +367,8 @@
 
 **4. Plataforma de base:**
 
+![pixil-frame-0](https://github.com/user-attachments/assets/46a8fa41-2795-43c8-97e3-e204bbcbf03b)
+
 ### **ENEMIGOS:**
 **1. Sprite y animación Escorpiones:**
 
