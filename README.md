@@ -359,7 +359,11 @@
 
 **1. Base de nivel:**
 
+![9](https://github.com/user-attachments/assets/bc096bb3-a836-4fac-9e2a-8a34810facfb)
+
 **2. Nivel 4:**
+
+![5](https://github.com/user-attachments/assets/959d7ac8-8be4-4fb6-9dab-eb5fd8231011)
 
 ## **ARTE NIVEL #4:**
 
