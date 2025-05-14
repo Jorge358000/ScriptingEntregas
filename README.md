@@ -363,6 +363,8 @@
 
 **3. Plataforma para arrastrar:**
 
+![pixil-frame-0 (1)](https://github.com/user-attachments/assets/7d8a0d58-b5a7-48b4-b923-a2ce87120fd9)
+
 **4. Plataforma de base:**
 
 ### **ENEMIGOS:**
