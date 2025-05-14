@@ -309,11 +309,19 @@
 
 **1. Base de nivel:**
 
+![base](https://github.com/user-attachments/assets/fbcccf3e-8cf9-4429-9bdd-72000222edc0)
+
 **2. Nivel 3: Easy:**
+
+![easy](https://github.com/user-attachments/assets/071e9cf3-5529-47cb-97e3-3d55636142cd)
 
 **3. Nivel 3: Medium:**
 
+![2](https://github.com/user-attachments/assets/57bc3d1f-6272-4540-b60c-b6328e3486ed)
+
 **4. Nivel 3: Hard:**
+
+![3](https://github.com/user-attachments/assets/078d42c0-d3ee-4932-92f5-0abf214f23dc)
 
 ## **ARTE NIVEL #3:**
 
@@ -321,12 +329,28 @@
 
 ### **POWER UP:**
 
+![pixilart-sprite](https://github.com/user-attachments/assets/3d78c8f8-361c-4919-91b1-009bfe5c83d2)
+
+![pixil-gif-drawing](https://github.com/user-attachments/assets/097f0d03-5a66-456e-a041-47448f6c450f)
+
 ### **PROPS:**
 **1. Cactus:**
 
+![pixil-frame-0](https://github.com/user-attachments/assets/e77c0772-0998-4675-99fc-df8239c987b4)
+
+![pixil-frame-0 (1)](https://github.com/user-attachments/assets/9bda3f53-3c35-4eed-b9a0-c59c7210244a)
+
 **2. Fruta de cactus movimiento:**
 
+![fruta quieta](https://github.com/user-attachments/assets/9604f0e0-94e9-42e7-9441-81cc4811ef25)
+
+![pixil-gif-drawing](https://github.com/user-attachments/assets/85844de1-a15e-4683-ab46-035fdf294e4f)
+
 **3. Fruta de cactus:**
+
+![frutamoviendose](https://github.com/user-attachments/assets/380fbfa8-21bd-455d-830f-4fdc30078816)
+
+![pixil-gif-drawing](https://github.com/user-attachments/assets/65585278-0847-4295-bb48-eb8209947ff8)
 
 ### **PLATAFORMAS:**
 **1. Plataforma estatica:**
@@ -351,7 +375,11 @@
 
 **1. Base de nivel:**
 
+![9](https://github.com/user-attachments/assets/bc096bb3-a836-4fac-9e2a-8a34810facfb)
+
 **2. Nivel 4:**
+
+![5](https://github.com/user-attachments/assets/959d7ac8-8be4-4fb6-9dab-eb5fd8231011)
 
 ## **ARTE NIVEL #4:**
 
