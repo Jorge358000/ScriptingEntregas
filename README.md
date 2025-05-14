@@ -384,6 +384,9 @@
 
 **3. Sprite y animación Serpientes:**
 
+![pixilart-sprite](https://github.com/user-attachments/assets/c5189d9a-af31-4193-b085-6e560dc3da91)
+
+![pixil-gif-drawing](https://github.com/user-attachments/assets/bc7f69d1-fdad-4f35-bf64-7409f65b8dc3)
 
 # **NIVEL #4:**
 
