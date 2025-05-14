@@ -378,6 +378,10 @@
 
 **2. Sprite y animación Sapos:**
 
+![pixilart-sprite](https://github.com/user-attachments/assets/66959033-d9f7-4676-9569-83d1a2b8758d)
+
+![pixil-gif-drawing](https://github.com/user-attachments/assets/c40b38b3-9d2d-4da7-ae3d-dec3f1eda7c1)
+
 **3. Sprite y animación Serpientes:**
 
 
