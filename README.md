@@ -355,6 +355,8 @@
 ### **PLATAFORMAS:**
 **1. Plataforma estatica:**
 
+![pixil-frame-0](https://github.com/user-attachments/assets/348e5047-bea4-4690-b85f-e529c82c6d31)
+
 **2. Plataforma movil:**
 
 ![pixil-frame-0](https://github.com/user-attachments/assets/87e74f79-a1dd-4438-b899-1e447e5863aa)
