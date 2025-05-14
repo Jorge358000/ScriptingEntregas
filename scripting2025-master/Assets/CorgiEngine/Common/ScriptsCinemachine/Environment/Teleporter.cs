@@ -159,6 +159,7 @@ namespace MoreMountains.CorgiEngine
 		
 		protected Vector3 _entryPosition;
 		protected Vector3 _newPosition;
+        public bool isLocked = true; // Por defecto, la puerta está bloqueada
 
 		/// <summary>
 		/// On start we initialize our ignore list
@@ -209,8 +210,14 @@ namespace MoreMountains.CorgiEngine
 		/// <param name="collider">Collider.</param>
 		protected override void OnTriggerEnter2D(Collider2D collider)
 		{
-			// if the object that collides with the teleporter is on its ignore list, we do nothing and exit.
-			if (_ignoreList.Contains(collider.transform))
+            if (isLocked)
+            {
+                // Opcional: feedback de puerta cerrada
+                Debug.Log("La puerta está cerrada.");
+                return;
+            }
+            // if the object that collides with the teleporter is on its ignore list, we do nothing and exit.
+            if (_ignoreList.Contains(collider.transform))
 			{
 				return;
 			}			

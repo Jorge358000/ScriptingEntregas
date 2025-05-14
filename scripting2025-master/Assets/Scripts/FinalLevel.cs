@@ -7,11 +7,11 @@ using MoreMountains.Tools;
 public class FinalLevel : MonoBehaviour, MMEventListener<PickableItemEvent>
 {
     static public int puntos = 0;
-     public GameObject puerta;
+     public GameObject llave;
 
     void Start()
     {
-        puerta.SetActive(false);   
+        llave.SetActive(false);   
     }
     void OnEnable()
     {
@@ -31,7 +31,7 @@ public class FinalLevel : MonoBehaviour, MMEventListener<PickableItemEvent>
             puntos += coin.PointsToAdd;
             if(puntos == 160)
             {
-                puerta.SetActive(true);
+                llave.SetActive(true);
             }
         }    
     }
