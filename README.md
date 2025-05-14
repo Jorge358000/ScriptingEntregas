@@ -423,3 +423,8 @@
 
 ### **ENEMIGOS:**
 **1. Sprite y animación Fantasmas:**
+
+![pixilart-sprite](https://github.com/user-attachments/assets/65a1fc7d-587c-4a5a-93b8-1c8f32a1ec2b)
+
+![pixil-gif-drawing](https://github.com/user-attachments/assets/c0222bfe-a164-49b8-a88f-2d9c3a01381b)
+
