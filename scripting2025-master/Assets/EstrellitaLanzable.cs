@@ -4,38 +4,35 @@ using UnityEngine;
 
 public class EstrellitaLanzable : MonoBehaviour
 {
-    private GameObject objetoLanzablePrefab; // Prefab del objeto que se lanza
-    private Transform puntoDisparo; // Punto de origen del disparo
+    private GameObject objetoLanzablePrefab;
+    public Transform puntoDisparo;
 
     private int cantidadBalas = 0;
+    private float ultimaPosX;
+    private float direccion = 1f; // 1 = derecha, -1 = izquierda
 
     void Start()
     {
-        // Cargar el prefab desde Resources
-        objetoLanzablePrefab = Resources.Load<GameObject>("LanzablePrefab"); // Usa el nombre exacto del prefab SIN extensión
-
+        objetoLanzablePrefab = Resources.Load<GameObject>("LanzablePrefab");
         if (objetoLanzablePrefab == null)
         {
             Debug.LogWarning("No se encontró el prefab 'LanzablePrefab' en la carpeta Resources.");
         }
-
-        // Buscar el punto de disparo por tag en la escena
-        GameObject puntoObj = GameObject.FindGameObjectWithTag("Punto");
-        if (puntoObj != null)
-        {
-            puntoDisparo = puntoObj.transform;
-        }
-        else
-        {
-            Debug.LogWarning("No se encontró un objeto con el tag 'Punto'.");
-        }
+        ultimaPosX = transform.position.x;
     }
 
     void Update()
     {
+        // Detecta la dirección del movimiento
+        float posX = transform.position.x;
+        if (posX > ultimaPosX)
+            direccion = 1f;
+        else if (posX < ultimaPosX)
+            direccion = -1f;
+        ultimaPosX = posX;
+
         if (Input.GetKeyDown(KeyCode.E) && cantidadBalas > 0)
         {
-            Debug.Log(cantidadBalas);
             LanzarObjeto();
             cantidadBalas--;
         }
@@ -52,16 +49,19 @@ public class EstrellitaLanzable : MonoBehaviour
 
     void LanzarObjeto()
     {
-        Debug.Log("entra");
         if (objetoLanzablePrefab != null && puntoDisparo != null)
         {
-            Debug.Log("Instanciando en: " + puntoDisparo.position);
-            GameObject obj = Instantiate(objetoLanzablePrefab, puntoDisparo.position, puntoDisparo.rotation);
-            Debug.Log("Instanciado: " + obj.name);
-        }
-        else
-        {
-            Debug.LogWarning("Falta asignar el prefab o el punto de disparo");
+            // Determina la rotación según la dirección
+            Quaternion rotacion = (direccion == -1f)
+                ? Quaternion.Euler(0, 180, 0)
+                : Quaternion.identity;
+
+            GameObject obj = Instantiate(objetoLanzablePrefab, puntoDisparo.position, rotacion);
+            ObjetoLanzado lanzado = obj.GetComponent<ObjetoLanzado>();
+            if (lanzado != null)
+            {
+                lanzado.SetDireccion(direccion);
+            }
         }
     }
 }

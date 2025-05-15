@@ -5930,6 +5930,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 02e13723258498747a4a26fa38db61a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  puntoDisparo: {fileID: 4135398658232238}
 --- !u!1 &1693914667617252
 GameObject:
   m_ObjectHideFlags: 0

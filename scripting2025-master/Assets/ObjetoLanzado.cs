@@ -6,11 +6,16 @@ public class ObjetoLanzado : MonoBehaviour
     [SerializeField] private float velocidad = 5f;
 
     private Vector3 destino;
-    private bool moviendo = true;
+    private bool moviendo = false;
+    private float direccion = 1f;
 
-    void Start()
+    public void SetDireccion(float dir)
     {
-        destino = transform.position + Vector3.right * distancia;
+        direccion = dir;
+        // Si la dirección es negativa, usa Vector3.left, si es positiva, Vector3.right
+        Vector3 direccionVector = direccion > 0 ? Vector3.right : Vector3.left;
+        destino = transform.position + direccionVector * distancia;
+        moviendo = true;
     }
 
     void Update()
