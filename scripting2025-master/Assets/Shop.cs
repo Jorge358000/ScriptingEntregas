@@ -5,47 +5,52 @@ using UnityEngine.UI;
 
 public class Shop : MonoBehaviour
 {
-    [SerializeField] private GameObject ventanaTienda; // Panel de la tienda
+    public static Shop Instancia;
+
+    [SerializeField] private GameObject ventanaTienda;
     [SerializeField] private Button botonItem1;
     [SerializeField] private Button botonItem2;
-    [SerializeField] private Transform spawnPoint; // Dónde aparecerá el pickable
-    [SerializeField] private GameObject pickableActual; // Referencia al pickable actual en la escena
+
+    private string prefab1;
+    private string prefab2;
+    private Vector3 spawnPosition;
+    private ShopTrigger tiendaActual; // Referencia al ShopTrigger que abrió la tienda
+
+    private void Awake()
+    {
+        Instancia = this;
+        ventanaTienda.SetActive(false);
+    }
 
     private void Start()
     {
-        ventanaTienda.SetActive(false);
-
-        botonItem1.onClick.AddListener(() => SeleccionarItem("Pickable1"));
-        botonItem2.onClick.AddListener(() => SeleccionarItem("Pickable2"));
+        botonItem1.onClick.AddListener(() => SeleccionarItem(prefab1));
+        botonItem2.onClick.AddListener(() => SeleccionarItem(prefab2));
     }
 
-    private void Update()
+    public void AbrirTienda(string nombrePrefab1, string nombrePrefab2, Vector3 posicion, ShopTrigger quienLlamo)
     {
-        // Abrir la tienda con la tecla T
-        if (Input.GetKeyDown(KeyCode.T))
-        {
-            ventanaTienda.SetActive(true);
-        }
+        prefab1 = nombrePrefab1;
+        prefab2 = nombrePrefab2;
+        spawnPosition = posicion;
+        tiendaActual = quienLlamo;
+        ventanaTienda.SetActive(true);
     }
 
     private void SeleccionarItem(string nombrePrefab)
     {
-        // Elimina el pickable actual si existe
-        if (pickableActual != null)
-        {
-            Destroy(pickableActual);
-        }
-
-        // Carga el nuevo pickable desde Resources
         GameObject nuevoPickable = Resources.Load<GameObject>(nombrePrefab);
         if (nuevoPickable != null)
         {
-            pickableActual = Instantiate(nuevoPickable, transform.position, Quaternion.identity);
+            Instantiate(nuevoPickable, spawnPosition, Quaternion.identity);
         }
+        ventanaTienda.SetActive(false);
 
-        ventanaTienda.SetActive(false); // Cierra la tienda
-
-        // Desactiva el objeto de la tienda
-        gameObject.SetActive(false);
+        // Aquí se destruye el objeto de tienda que abrió la ventana
+        if (tiendaActual != null)
+        {
+            Destroy(tiendaActual.gameObject);
+            tiendaActual = null;
+        }
     }
 }
