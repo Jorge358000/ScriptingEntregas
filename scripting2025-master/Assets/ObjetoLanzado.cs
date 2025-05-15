@@ -12,7 +12,6 @@ public class ObjetoLanzado : MonoBehaviour
     public void SetDireccion(float dir)
     {
         direccion = dir;
-        // Si la dirección es negativa, usa Vector3.left, si es positiva, Vector3.right
         Vector3 direccionVector = direccion > 0 ? Vector3.right : Vector3.left;
         destino = transform.position + direccionVector * distancia;
         moviendo = true;
@@ -26,6 +25,7 @@ public class ObjetoLanzado : MonoBehaviour
             if (Vector3.Distance(transform.position, destino) < 0.01f)
             {
                 moviendo = false;
+                Destroy(gameObject, 1f); // Se destruye después de 1 segundo
             }
         }
     }
