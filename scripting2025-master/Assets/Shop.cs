@@ -38,11 +38,14 @@ public class Shop : MonoBehaviour
 
         // Carga el nuevo pickable desde Resources
         GameObject nuevoPickable = Resources.Load<GameObject>(nombrePrefab);
-        if (nuevoPickable != null && spawnPoint != null)
+        if (nuevoPickable != null)
         {
-            pickableActual = Instantiate(nuevoPickable, spawnPoint.position, Quaternion.identity);
+            pickableActual = Instantiate(nuevoPickable, transform.position, Quaternion.identity);
         }
 
         ventanaTienda.SetActive(false); // Cierra la tienda
+
+        // Desactiva el objeto de la tienda
+        gameObject.SetActive(false);
     }
 }

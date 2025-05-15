@@ -13618,11 +13618,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 02b4d545fe2868d41b6bae5846aef3b7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ventanaTienda: {fileID: 0}
-  botonItem1: {fileID: 0}
-  botonItem2: {fileID: 0}
-  spawnPoint: {fileID: 0}
-  pickableActual: {fileID: 0}
+  ventanaTienda: {fileID: 1036189223}
+  botonItem1: {fileID: 1668809687}
+  botonItem2: {fileID: 1654908922}
+  spawnPoint: {fileID: 1693566863}
+  pickableActual: {fileID: 101313590}
 --- !u!212 &1693566862
 SpriteRenderer:
   m_ObjectHideFlags: 0
