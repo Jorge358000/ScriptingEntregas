@@ -9,6 +9,9 @@ TagManager:
   - Background
   - NoMask
   - Coin
+  - bala
+  - lanzable
+  - Punto
   layers:
   - Default
   - TransparentFX

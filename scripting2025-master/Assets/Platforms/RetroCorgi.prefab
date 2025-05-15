@@ -4916,6 +4916,7 @@ GameObject:
   - component: {fileID: 8142255087451268405}
   - component: {fileID: 5683150900215798491}
   - component: {fileID: 3138931876945488989}
+  - component: {fileID: 2670503162528858725}
   m_Layer: 9
   m_Name: RetroCorgi
   m_TagString: Player
@@ -4938,6 +4939,7 @@ Transform:
   m_Children:
   - {fileID: 3226905252963850618}
   - {fileID: 481845280274498306}
+  - {fileID: 7091944264247178627}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &114473069959786316
@@ -5916,6 +5918,18 @@ MonoBehaviour:
   BlockingWeaponStates: 
   StunButton: 0
   ExitStunButton: 0
+--- !u!114 &2670503162528858725
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1383539409296422}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02e13723258498747a4a26fa38db61a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1693914667617252
 GameObject:
   m_ObjectHideFlags: 0
@@ -15689,6 +15703,52 @@ ParticleSystemRenderer:
   m_MeshWeighting2: 1
   m_MeshWeighting3: 1
   m_MaskInteraction: 0
+--- !u!1 &507970445870668169
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7091944264247178627}
+  - component: {fileID: 8449423932248527369}
+  m_Layer: 0
+  m_Name: PuntoDisparo
+  m_TagString: Punto
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7091944264247178627
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 507970445870668169}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 3, y: -0.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4135398658232238}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8449423932248527369
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 507970445870668169}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c0c75c4a7905d842b3b047d6ab0fdbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  personaje: {fileID: 4135398658232238}
+  offsetX: 1
 --- !u!1 &704120817590044472
 GameObject:
   m_ObjectHideFlags: 0
