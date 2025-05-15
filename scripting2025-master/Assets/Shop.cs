@@ -24,7 +24,7 @@ public class Shop : MonoBehaviour
         // Abrir la tienda con la tecla T
         if (Input.GetKeyDown(KeyCode.T))
         {
-            ventanaTienda.SetActive(!ventanaTienda.activeSelf);
+            ventanaTienda.SetActive(true);
         }
     }
 
