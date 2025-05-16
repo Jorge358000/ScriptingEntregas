@@ -42,7 +42,7 @@ TagManager:
   - MidHeightOneWayPlatforms
   - Pushables
   - Stairs
-  - 
+  - EnemyBarrier
   - 
   - 
   m_SortingLayers:
