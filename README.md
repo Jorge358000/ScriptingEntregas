@@ -81,12 +81,12 @@
 
 ![pixil-frame-0 (2)](https://github.com/user-attachments/assets/1f379755-e502-467d-bc58-c92b1f455318)
 
-**1. Pantalla de inicio:**
+**1. Recoger 10 vidas:**
 
 ![pixil-frame-0 (3)](https://github.com/user-attachments/assets/594426f1-06e7-4989-af6f-1655d0290fae)
 
 
-**1. Pantalla de inicio:**
+**1. Matar 15 monstruos:**
 
 ![pixil-frame-0 (4)](https://github.com/user-attachments/assets/cf44f52b-1018-481a-97bc-a0bd2744e3eb)
 
