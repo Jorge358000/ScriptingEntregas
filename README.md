@@ -90,15 +90,15 @@
 
 ![pixil-frame-0 (4)](https://github.com/user-attachments/assets/cf44f52b-1018-481a-97bc-a0bd2744e3eb)
 
-**1. Pantalla de inicio:**
+**1. Recoger 30 monedas:**
 
 ![pixil-frame-0 (5)](https://github.com/user-attachments/assets/3cf4cb78-08eb-49e9-b029-0b3442e2fa00)
 
-**1. Pantalla de inicio:**
+**1. Destruir 20 contenedores:**
 
 ![pixil-frame-0 (6)](https://github.com/user-attachments/assets/b255e92d-1c88-497e-891b-248b321ee99f)
 
-**1. Pantalla de inicio:**
+**1. Pasar 2 niveles en dificultad media:**
 
 ![pixil-frame-0 (7)](https://github.com/user-attachments/assets/078f09c8-1ae4-4758-a5db-0d03c889f236)
 
