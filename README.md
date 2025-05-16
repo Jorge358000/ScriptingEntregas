@@ -145,6 +145,15 @@
 ![pixil-gif-drawing (8)](https://github.com/user-attachments/assets/0465bcf7-dcc7-4614-a7f6-3d3f07c24509)
 
 
+**7. Sprite sheet y animación del personaje cuando camina agachado:**
+
+![pixilart-sprite (17)](https://github.com/user-attachments/assets/fb972cf1-ae45-4870-93e8-b591fa02e1d0)
+
+![pixil-frame-0 (22)](https://github.com/user-attachments/assets/59d1c19c-cb7d-406e-9baf-a15160aec909)
+
+![pixil-gif-drawing (9)](https://github.com/user-attachments/assets/b39a1423-90c5-4c61-8ef9-76625fbf19b0)
+
+
 # **NIVEL #1:**
 
 ## **DISEÑO DE NIVEL #1:**
