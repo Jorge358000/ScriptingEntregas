@@ -7,7 +7,7 @@ AnimationClip:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: RetroCorgiRollStart
-  serializedVersion: 6
+  serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
   m_UseHighQualityCurve: 1
@@ -18,17 +18,17 @@ AnimationClip:
   m_ScaleCurves: []
   m_FloatCurves: []
   m_PPtrCurves:
-  - curve:
+  - serializedVersion: 2
+    curve:
     - time: 0
-      value: {fileID: 5960623163539844598, guid: b61e6956790935b4ca07e6bac3da4742,
-        type: 3}
+      value: {fileID: -958985287, guid: bdc5d4cf300d6b44789f0b77485e6d8d, type: 3}
     - time: 0.033333335
-      value: {fileID: -3895273197075412872, guid: b61e6956790935b4ca07e6bac3da4742,
-        type: 3}
+      value: {fileID: 1032835943, guid: 338245a80884e0341bdb7ec40f845d34, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
     script: {fileID: 0}
+    flags: 2
   m_SampleRate: 30
   m_WrapMode: 0
   m_Bounds:
@@ -43,9 +43,11 @@ AnimationClip:
       typeID: 212
       customType: 23
       isPPtrCurve: 1
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: 5960623163539844598, guid: b61e6956790935b4ca07e6bac3da4742, type: 3}
-    - {fileID: -3895273197075412872, guid: b61e6956790935b4ca07e6bac3da4742, type: 3}
+    - {fileID: -958985287, guid: bdc5d4cf300d6b44789f0b77485e6d8d, type: 3}
+    - {fileID: 1032835943, guid: 338245a80884e0341bdb7ec40f845d34, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}

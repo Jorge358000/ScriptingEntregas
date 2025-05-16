@@ -5381,7 +5381,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1383539409296422}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1fd71e945bfcd4897b3a95607989c7d4, type: 3}
   m_Name: 
@@ -5944,6 +5944,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9848e7fc51ea3f4fa46f94517447b51, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  prefab1: Vida
+  prefab2: Bala
 --- !u!1 &1693914667617252
 GameObject:
   m_ObjectHideFlags: 0
