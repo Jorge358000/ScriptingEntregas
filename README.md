@@ -70,6 +70,8 @@
 
 ![pixil-frame-0 (29)](https://github.com/user-attachments/assets/6060db58-6719-426b-b315-58c28aa293b4)
 
+![pixil-frame-0 (30)](https://github.com/user-attachments/assets/912d4d23-dc66-42ea-a9d6-19e951cf26ba)
+
 
 ### **BARRAS INDICADORAS:**
 
