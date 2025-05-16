@@ -33,13 +33,28 @@
 
 
 
-**5. Fondo nivel 1 (agua):**
+**5. Interfaz de tienda:**
+
+![pixil-frame-0 (19)](https://github.com/user-attachments/assets/69f07340-fbe3-4b4a-b29b-60a934c9a67e)
+
+
+
+**6. Fondo nivel 1 (agua):**
 
 ![pixil-frame-0 (16)](https://github.com/user-attachments/assets/a7faa22d-94d5-4061-a273-f24e85ae8941)
 
-**6. Fondo nivel 2 (Cueva):**
+
+
+**7. Fondo nivel 2 (Cueva):**
 
 ![Fondo nivel 2](https://github.com/user-attachments/assets/be3cffce-a226-4d54-ab62-977538ce89cb)
+
+
+
+**8. Fondo nivel 3 (Dunas):**
+
+![pixil-frame-0 (21)](https://github.com/user-attachments/assets/d51585cc-f27b-4c5a-a3be-d92212b86d36)
+
 
 
 ### **BARRAS INDICADORAS:**
@@ -143,6 +158,15 @@
 ![pixilart-sprite (16)](https://github.com/user-attachments/assets/9ebe296d-676e-4dac-ad93-d607029d8be0)
 
 ![pixil-gif-drawing (8)](https://github.com/user-attachments/assets/0465bcf7-dcc7-4614-a7f6-3d3f07c24509)
+
+
+**7. Sprite sheet y animación del personaje cuando camina agachado:**
+
+![pixilart-sprite (17)](https://github.com/user-attachments/assets/fb972cf1-ae45-4870-93e8-b591fa02e1d0)
+
+![pixil-frame-0 (22)](https://github.com/user-attachments/assets/59d1c19c-cb7d-406e-9baf-a15160aec909)
+
+![pixil-gif-drawing (9)](https://github.com/user-attachments/assets/b39a1423-90c5-4c61-8ef9-76625fbf19b0)
 
 
 # **NIVEL #1:**
