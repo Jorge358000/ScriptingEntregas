@@ -73,6 +73,35 @@
 
 ![pixil-frame-0 (15)](https://github.com/user-attachments/assets/8d4a743e-3199-4010-a18c-b630a30f153a)
 
+### **LOGROS:**
+
+![pixil-frame-0](https://github.com/user-attachments/assets/26f1644b-b985-4a40-93bb-ebf9bc1b42d9)
+
+![pixil-frame-0 (1)](https://github.com/user-attachments/assets/7ba849ea-9774-4b01-bcf5-2ae37e87cf55)
+
+![pixil-frame-0 (2)](https://github.com/user-attachments/assets/1f379755-e502-467d-bc58-c92b1f455318)
+
+**1. Pantalla de inicio:**
+
+![pixil-frame-0 (3)](https://github.com/user-attachments/assets/594426f1-06e7-4989-af6f-1655d0290fae)
+
+
+**1. Pantalla de inicio:**
+
+![pixil-frame-0 (4)](https://github.com/user-attachments/assets/cf44f52b-1018-481a-97bc-a0bd2744e3eb)
+
+**1. Pantalla de inicio:**
+
+![pixil-frame-0 (5)](https://github.com/user-attachments/assets/3cf4cb78-08eb-49e9-b029-0b3442e2fa00)
+
+**1. Pantalla de inicio:**
+
+![pixil-frame-0 (6)](https://github.com/user-attachments/assets/b255e92d-1c88-497e-891b-248b321ee99f)
+
+**1. Pantalla de inicio:**
+
+![pixil-frame-0 (7)](https://github.com/user-attachments/assets/078f09c8-1ae4-4758-a5db-0d03c889f236)
+
 ### **PROPS GENERALES:**
 
 **1. Sprite sheet y animación de la moneda:**
