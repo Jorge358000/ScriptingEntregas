@@ -33,13 +33,28 @@
 
 
 
-**5. Fondo nivel 1 (agua):**
+**5. Interfaz de tienda:**
+
+![pixil-frame-0 (19)](https://github.com/user-attachments/assets/69f07340-fbe3-4b4a-b29b-60a934c9a67e)
+
+
+
+**6. Fondo nivel 1 (agua):**
 
 ![pixil-frame-0 (16)](https://github.com/user-attachments/assets/a7faa22d-94d5-4061-a273-f24e85ae8941)
 
-**6. Fondo nivel 2 (Cueva):**
+
+
+**7. Fondo nivel 2 (Cueva):**
 
 ![Fondo nivel 2](https://github.com/user-attachments/assets/be3cffce-a226-4d54-ab62-977538ce89cb)
+
+
+
+**8. Fondo nivel 3 (Dunas):**
+
+![pixil-frame-0 (21)](https://github.com/user-attachments/assets/d51585cc-f27b-4c5a-a3be-d92212b86d36)
+
 
 
 ### **BARRAS INDICADORAS:**
