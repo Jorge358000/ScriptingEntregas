@@ -138,6 +138,13 @@
 ![pixil-gif-drawing (3)](https://github.com/user-attachments/assets/dd7283c7-b1cd-4bf7-ad27-ce56217135da)
 
 
+**6. Sprite sheet y animación del personaje cuando hace un dash:**
+
+![pixilart-sprite (16)](https://github.com/user-attachments/assets/9ebe296d-676e-4dac-ad93-d607029d8be0)
+
+![pixil-gif-drawing (8)](https://github.com/user-attachments/assets/0465bcf7-dcc7-4614-a7f6-3d3f07c24509)
+
+
 # **NIVEL #1:**
 
 ## **DISEÑO DE NIVEL #1:**
