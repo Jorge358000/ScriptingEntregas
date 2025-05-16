@@ -56,6 +56,20 @@
 ![pixil-frame-0 (21)](https://github.com/user-attachments/assets/d51585cc-f27b-4c5a-a3be-d92212b86d36)
 
 
+### **BOTONES:**
+
+![pixil-frame-0 (23)](https://github.com/user-attachments/assets/df06a394-dbee-450e-9059-926633f21ab6)
+
+![pixil-frame-0 (25)](https://github.com/user-attachments/assets/eaad53de-dfd2-4f7b-a1e9-1b6624ff53e4)
+
+![pixil-frame-0 (26)](https://github.com/user-attachments/assets/aab4e580-c09c-457b-89d4-008ddecbf2c2)
+
+![pixil-frame-0 (27)](https://github.com/user-attachments/assets/8501c522-5e07-4f0d-b629-017580a565df)
+
+![pixil-frame-0 (28)](https://github.com/user-attachments/assets/f7e509ec-5a65-4d15-beb6-d3bda0e73e4c)
+
+![pixil-frame-0 (29)](https://github.com/user-attachments/assets/6060db58-6719-426b-b315-58c28aa293b4)
+
 
 ### **BARRAS INDICADORAS:**
 
