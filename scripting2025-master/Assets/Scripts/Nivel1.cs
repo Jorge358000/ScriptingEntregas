@@ -5,8 +5,15 @@ using MoreMountains.Tools;
 
 public class Volver : MonoBehaviour
 {
+    [SerializeField] private GameObject dif;
+
+    private void Start()
+    {
+        dif.SetActive(false);
+    }
     public void Level1(){
-        MMSceneLoadingManager.LoadScene("Nivel1");
+        dif.SetActive(true);
+        
     }
 
     public void Menu(){
