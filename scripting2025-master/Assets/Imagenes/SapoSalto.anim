@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: RetroCorgiCrawl
+  m_Name: SapoSalto
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -21,9 +21,9 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: 1362505479, guid: a262a3acff599ed47a91d6cc192cd88b, type: 3}
+      value: {fileID: -1159649900, guid: 85e572c8111f7ae4494d29664cf02a99, type: 3}
     - time: 0.083333336
-      value: {fileID: 1590534036, guid: a262a3acff599ed47a91d6cc192cd88b, type: 3}
+      value: {fileID: 640804716, guid: 85e572c8111f7ae4494d29664cf02a99, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -46,8 +46,8 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: 1362505479, guid: a262a3acff599ed47a91d6cc192cd88b, type: 3}
-    - {fileID: 1590534036, guid: a262a3acff599ed47a91d6cc192cd88b, type: 3}
+    - {fileID: -1159649900, guid: 85e572c8111f7ae4494d29664cf02a99, type: 3}
+    - {fileID: 640804716, guid: 85e572c8111f7ae4494d29664cf02a99, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}

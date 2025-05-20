@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: My project
+  productName: Triten
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 1, g: 0.30879685, b: 0, a: 1}
@@ -288,7 +288,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 3991f33f40938a94d9c709ed0ecc446a, type: 3}
+      m_Icon: {fileID: 2800000, guid: 0bef9b5c4a40dd240af264118b7100ff, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0

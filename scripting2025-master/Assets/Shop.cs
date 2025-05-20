@@ -2,8 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using MoreMountains.Tools;
+using MoreMountains.CorgiEngine;
 
-public class Shop : MonoBehaviour
+public class Shop : PickableItem
 {
     public static Shop Instancia;
 
