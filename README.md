@@ -56,6 +56,22 @@
 ![pixil-frame-0 (21)](https://github.com/user-attachments/assets/d51585cc-f27b-4c5a-a3be-d92212b86d36)
 
 
+### **BOTONES:**
+
+![pixil-frame-0 (23)](https://github.com/user-attachments/assets/df06a394-dbee-450e-9059-926633f21ab6)
+
+![pixil-frame-0 (25)](https://github.com/user-attachments/assets/eaad53de-dfd2-4f7b-a1e9-1b6624ff53e4)
+
+![pixil-frame-0 (26)](https://github.com/user-attachments/assets/aab4e580-c09c-457b-89d4-008ddecbf2c2)
+
+![pixil-frame-0 (27)](https://github.com/user-attachments/assets/8501c522-5e07-4f0d-b629-017580a565df)
+
+![pixil-frame-0 (28)](https://github.com/user-attachments/assets/f7e509ec-5a65-4d15-beb6-d3bda0e73e4c)
+
+![pixil-frame-0 (29)](https://github.com/user-attachments/assets/6060db58-6719-426b-b315-58c28aa293b4)
+
+![pixil-frame-0 (30)](https://github.com/user-attachments/assets/912d4d23-dc66-42ea-a9d6-19e951cf26ba)
+
 
 ### **BARRAS INDICADORAS:**
 
@@ -72,6 +88,35 @@
 ![Barra de munición](https://github.com/user-attachments/assets/9a732e2e-b3f4-4a59-a56d-7308f20e679f)
 
 ![pixil-frame-0 (15)](https://github.com/user-attachments/assets/8d4a743e-3199-4010-a18c-b630a30f153a)
+
+### **LOGROS:**
+
+![pixil-frame-0](https://github.com/user-attachments/assets/26f1644b-b985-4a40-93bb-ebf9bc1b42d9)
+
+![pixil-frame-0 (1)](https://github.com/user-attachments/assets/7ba849ea-9774-4b01-bcf5-2ae37e87cf55)
+
+![pixil-frame-0 (2)](https://github.com/user-attachments/assets/1f379755-e502-467d-bc58-c92b1f455318)
+
+**1. Recoger 10 vidas:**
+
+![pixil-frame-0 (3)](https://github.com/user-attachments/assets/594426f1-06e7-4989-af6f-1655d0290fae)
+
+
+**1. Matar 15 monstruos:**
+
+![pixil-frame-0 (4)](https://github.com/user-attachments/assets/cf44f52b-1018-481a-97bc-a0bd2744e3eb)
+
+**1. Recoger 30 monedas:**
+
+![pixil-frame-0 (5)](https://github.com/user-attachments/assets/3cf4cb78-08eb-49e9-b029-0b3442e2fa00)
+
+**1. Destruir 20 contenedores:**
+
+![pixil-frame-0 (6)](https://github.com/user-attachments/assets/b255e92d-1c88-497e-891b-248b321ee99f)
+
+**1. Pasar 2 niveles en dificultad media:**
+
+![pixil-frame-0 (7)](https://github.com/user-attachments/assets/078f09c8-1ae4-4758-a5db-0d03c889f236)
 
 ### **PROPS GENERALES:**
 
